@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/ImErrorX"><img title="ErrorX" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImErrorX&layout=compact"></a>
+<a href="https://github.com/noob-hackers"><img title="ErrorX" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noob-hackers&layout=compact"></a>
 </p>
