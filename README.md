@@ -155,9 +155,8 @@ export const achievements = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakeerrorx&custom_title=ErrorX's%20Contribution%20Graph&bg_color=0D1117&color=00FFB2&line=00FFB2&point=FFFFFF&area_color=00FFB2&title_color=FFFFFF&area=true" alt="ErrorX's Graph" width="100%">
   
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br/><br/>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fakeerrorx&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakeerrorx&theme=gotham&hide_border=true&background=0D1117&stroke=00FFB2&ring=00FFB2&fire=00FFB2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFB2&sideLabels=00FFB2" alt="GitHub Streak" width="49%" />
 
 </div>
 </details>
