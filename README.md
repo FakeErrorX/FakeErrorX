@@ -19,11 +19,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=00FF95&color=00B2FF&labelColor=0D1117&label=Visits&style=for-the-badge&query=%24.count&url=https://api.github-star-counter.workers.dev/user/fakeerrorx"/>
 </div>
 
-<!-- Cyber Separator -->
-<div align="center">
-  <img src="https://github.com/fakeerrorx/fakeerrorx/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
-
 <!-- Futuristic About Section -->
 <div align="center">
   <div style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; margin: 20px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
