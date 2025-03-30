@@ -148,23 +148,23 @@
   
   <div style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
     <a href="https://twitter.com/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=00FF95"/>
+      <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=00FF95"/>
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/fakeerrorx" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF95&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF95"/>
     </a>
     &nbsp;
     <a href="https://instagram.com/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF95"/>
+      <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FF95"/>
     </a>
     &nbsp;
     <a href="https://facebook.com/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF95"/>
+      <img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=00FF95"/>
     </a>
     &nbsp;
     <a href="https://youtube.com/c/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF95"/>
+      <img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=00FF95"/>
     </a>
   </div>
 </div>
