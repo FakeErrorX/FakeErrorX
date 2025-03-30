@@ -18,7 +18,7 @@
     <img height="28" src="https://custom-icon-badges.demolab.com/github/stars/fakeerrorx?style=for-the-badge&color=6272a4&labelColor=1a1b27&logo=star&logoColor=8be9fd"/>
   </a>
   &nbsp;
-  <img height="28" src="https://komarev.com/ghpvc/?username=fakeerrorx&label=Profile%20Views&color=6272a4&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
+  <img height="28" src="https://komarev.com/ghpvc/?username=fakeerrorx&label=Profile%20Views&color=6272a4&style=for-the-badge&labelColor=1a1b27&logo=eye&logoColor=8be9fd" alt="Profile Views"/>
 </div>
 
 <!-- Modern About Section -->
