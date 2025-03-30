@@ -220,6 +220,86 @@ I'm a passionate Cybersecurity Expert and Full-Stack Developer from Bangladesh, 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
+### 🌐 Cloud Platforms & Services
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 🔄 Version Control & CI/CD
+![Git Flow](https://img.shields.io/badge/Git_Flow-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 🐳 Containerization & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-277A9F?style=for-the-badge&logo=helm&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+
+### 🔍 Code Quality & Analysis
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white)
+![CodeClimate](https://img.shields.io/badge/CodeClimate-000000?style=for-the-badge&logo=code-climate&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Fortify](https://img.shields.io/badge/Fortify-FF0000?style=for-the-badge&logo=fortify&logoColor=white)
+![Veracode](https://img.shields.io/badge/Veracode-004B87?style=for-the-badge&logo=veracode&logoColor=white)
+
+### 📱 Mobile App Security
+![Android Security](https://img.shields.io/badge/Android_Security-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS Security](https://img.shields.io/badge/iOS_Security-000000?style=for-the-badge&logo=ios&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-E34F26?style=for-the-badge&logo=mobile-security-framework&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-00599C?style=for-the-badge&logo=frida&logoColor=white)
+![Objection](https://img.shields.io/badge/Objection-7D4698?style=for-the-badge&logo=objection&logoColor=white)
+![OWASP MSTG](https://img.shields.io/badge/OWASP_MSTG-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Drozer](https://img.shields.io/badge/Drozer-FF6B6B?style=for-the-badge&logo=drozer&logoColor=white)
+![APKTool](https://img.shields.io/badge/APKTool-5C2D91?style=for-the-badge&logo=android&logoColor=white)
+
+### 🔐 Cryptography & PKI
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![GPG](https://img.shields.io/badge/GPG-0093DD?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=let%27s-encrypt&logoColor=white)
+![AWS KMS](https://img.shields.io/badge/AWS_KMS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Certificate Manager](https://img.shields.io/badge/Certificate_Manager-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![YubiKey](https://img.shields.io/badge/YubiKey-84BD00?style=for-the-badge&logo=yubico&logoColor=white)
+
+### 🛡️ Network Security & Monitoring
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logo=zeek&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-EE0000?style=for-the-badge&logo=nagios&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-FF0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![OSSEC](https://img.shields.io/badge/OSSEC-071D49?style=for-the-badge&logo=ossec&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EE0000?style=for-the-badge&logo=suricata&logoColor=white)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-000000?style=for-the-badge&logo=fail2ban&logoColor=white)
+
+### 🤖 Security Automation
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
+![Chef](https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Salt](https://img.shields.io/badge/Salt-00EACE?style=for-the-badge&logo=saltstack&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure ARM](https://img.shields.io/badge/Azure_ARM-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 ## 🏆 Certifications & Achievements
 
 <div align="center">
