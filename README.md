@@ -102,64 +102,74 @@ mindmap
 <summary><h2>🏆 Achievements & Certifications</h2></summary>
 
 <div align="center">
-  <div>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Certificate.png" alt="Certificate" width="25" height="25" /> 
-    <b>Professional Certifications</b>
-  </div>
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30px"/>
-        <br><strong>Security</strong>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" width="30px"/>
-        <br><strong>Cloud</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-brightgreen?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-          <br/>
-          <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=compTIA&logoColor=white"/>
-          <br/>
-          <img src="https://img.shields.io/badge/Cisco-CCNP_Security-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-          <br/>
-          <img src="https://img.shields.io/badge/Azure-Solutions_Architect-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-          <br/>
-          <img src="https://img.shields.io/badge/GCP-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+<h3>🛡️ Security Certifications</h3>
 
-  <br/>
+<p align="center">
+  <a href="#">
+    <img src="https://custom-icon-badges.demolab.com/badge/CEH-Certified%20Ethical%20Hacker-darkred?style=for-the-badge&logo=shield-check&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://custom-icon-badges.demolab.com/badge/Security+-CompTIA-blue?style=for-the-badge&logo=shield-check&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://custom-icon-badges.demolab.com/badge/CCNP-Security-orange?style=for-the-badge&logo=shield-check&logoColor=white"/>
+  </a>
+</p>
 
-  <div>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> 
-    <b>Notable Achievements</b>
-  </div>
+<h3>☁️ Cloud Certifications</h3>
 
-  <div align="center">
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://img.shields.io/badge/🔍_Bug_Bounty-Hall_of_Fame-gold?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/🏆_CTF-Competition_Champion-purple?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/📊_Security-Research_Excellence-teal?style=for-the-badge"/>
-    </div>
-    <br/>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://img.shields.io/badge/🚀_DevOps-Innovation_Award-blue?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/🌟_Open_Source-Contributor-green?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/🎤_Tech-Conference_Speaker-orange?style=for-the-badge"/>
-    </div>
-  </div>
+<p align="center">
+  <a href="#">
+    <img src="https://custom-icon-badges.demolab.com/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=aws&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://custom-icon-badges.demolab.com/badge/Azure-Solutions%20Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://custom-icon-badges.demolab.com/badge/GCP-Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  </a>
+</p>
+
+<h3>🎯 Notable Achievements</h3>
+
+<table align="center" style="border: none;">
+<tr>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /><br>
+  <strong>Bug Bounty Hall of Fame</strong><br>
+  <sub>Recognition for discovering critical vulnerabilities</sub>
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" alt="Medal" width="25" height="25" /><br>
+  <strong>CTF Champion</strong><br>
+  <sub>Multiple CTF competition victories</sub>
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Research" width="25" height="25" /><br>
+  <strong>Research Excellence</strong><br>
+  <sub>Published security research papers</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="DevOps" width="25" height="25" /><br>
+  <strong>DevOps Innovation</strong><br>
+  <sub>Award for infrastructure automation</sub>
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Source" width="25" height="25" /><br>
+  <strong>Open Source Impact</strong><br>
+  <sub>Major contributions to security tools</sub>
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="Speaker" width="25" height="25" /><br>
+  <strong>Tech Speaker</strong><br>
+  <sub>International conference presentations</sub>
+</td>
+</tr>
+</table>
+
 </div>
 </details>
 
