@@ -102,6 +102,9 @@
         <td align="center">
           <img src="https://custom-icon-badges.demolab.com/badge/-Arabic-0D1117?style=for-the-badge&logo=translate&logoColor=00FF95"/>
         </td>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Chinese-0D1117?style=for-the-badge&logo=translate&logoColor=00FF95"/>
+        </td>
       </tr>
     </table>
   </div>
