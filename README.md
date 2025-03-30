@@ -165,7 +165,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,nextjs,tailwind,bootstrap,threejs,figma&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,nextjs,tailwind,bootstrap,threejs,figma,electron&theme=dark" />
       </td>
     </tr>
   </table>
@@ -175,7 +175,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,graphql,nestjs&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,graphql,nestjs,laravel,dotnet&theme=dark" />
       </td>
     </tr>
   </table>
@@ -185,7 +185,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,elasticsearch,supabase&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,elasticsearch,supabase,firebase&theme=dark" />
       </td>
     </tr>
   </table>
