@@ -152,23 +152,139 @@
 <div align="center" style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
   <!-- Programming Languages -->
   <h3>Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,php,ruby,go,rust,kotlin,swift,c,cs,scala,perl,r,dart,lua,haskell,elixir,julia,fortran,cobol,erlang,clojure&theme=dark&perline=10" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,php,ruby,go,rust,kotlin&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=swift,c,cs,scala&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-Perl-0D1117?style=for-the-badge&logo=perl&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-R-0D1117?style=for-the-badge&logo=r&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=dart&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-Lua-0D1117?style=for-the-badge&logo=lua&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=haskell&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Elixir-0D1117?style=for-the-badge&logo=elixir&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Julia-0D1117?style=for-the-badge&logo=julia&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Fortran-0D1117?style=for-the-badge&logo=fortran&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-COBOL-0D1117?style=for-the-badge&logo=cobol&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Erlang-0D1117?style=for-the-badge&logo=erlang&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
   
   <!-- Frontend Development -->
   <h3>Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,vue,angular,svelte,nextjs,nuxtjs,gatsby,redux,tailwind,bootstrap,materialui,jquery,threejs,d3,electron,webpack,vite,astro,storybook,figma,xd&theme=dark&perline=8" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,sass,react,vue,angular,svelte,nextjs&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nuxtjs,gatsby,redux,tailwind,bootstrap,materialui&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Three.js-0D1117?style=for-the-badge&logo=three.js&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-D3.js-0D1117?style=for-the-badge&logo=d3.js&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=electron&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=webpack,vite&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-Astro-0D1117?style=for-the-badge&logo=astro&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Storybook-0D1117?style=for-the-badge&logo=storybook&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+      </td>
+    </tr>
+  </table>
   
   <!-- Backend Development -->
   <h3>Backend Development</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,rails,dotnet,graphql,apollo,nestjs,deno,actix,rocket,gin,fiber,echo,quarkus,micronaut,adonisjs,strapi,prisma,sequelize,hibernate&theme=dark&perline=10" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,rails&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=dotnet,graphql&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-Apollo-0D1117?style=for-the-badge&logo=apollo-graphql&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=deno&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Actix-0D1117?style=for-the-badge&logo=rust&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Rocket-0D1117?style=for-the-badge&logo=rust&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Gin-0D1117?style=for-the-badge&logo=go&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Fiber-0D1117?style=for-the-badge&logo=go&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
   
   <!-- Database Technologies -->
   <h3>Database Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite,cassandra,dynamodb,mariadb,oracle,elasticsearch,neo4j,couchdb,influxdb,cockroachdb,supabase,firebase&theme=dark&perline=8" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=sqlite,cassandra&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-DynamoDB-0D1117?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-MariaDB-0D1117?style=for-the-badge&logo=mariadb&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Elasticsearch-0D1117?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Neo4j-0D1117?style=for-the-badge&logo=neo4j&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-CouchDB-0D1117?style=for-the-badge&logo=apachecouchdb&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
   
   <!-- DevOps & Cloud -->
   <h3>DevOps & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,github,bitbucket,terraform,ansible,prometheus,grafana,heroku,vercel,netlify,cloudflare,nginx,traefik,pulumi,digitalocean,openshift,rancher,harbor,argocd,flux,helm&theme=dark&perline=9" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,github&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Heroku-0D1117?style=for-the-badge&logo=heroku&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
   
   <!-- Security Tools -->
   <h3>Security Arsenal</h3>
@@ -289,6 +405,86 @@
         <img src="https://custom-icon-badges.demolab.com/badge/-Trivy-2E8B57?style=for-the-badge&logo=aqua&logoColor=white"/>
         <img src="https://custom-icon-badges.demolab.com/badge/-Prisma%20Cloud-4B0082?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
         <img src="https://custom-icon-badges.demolab.com/badge/-Cloud%20Custodian-1E90FF?style=for-the-badge&logo=cloud&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Mobile Development -->
+  <h3>Mobile Development</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Xamarin-0D1117?style=for-the-badge&logo=xamarin&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Capacitor-0D1117?style=for-the-badge&logo=capacitor&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Game Development -->
+  <h3>Game Development</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-Godot-0D1117?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Three.js-0D1117?style=for-the-badge&logo=three.js&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=blender&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-Maya-0D1117?style=for-the-badge&logo=autodesk&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- AI/ML & Data Science -->
+  <h3>AI/ML & Data Science</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Keras-0D1117?style=for-the-badge&logo=keras&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- IoT & Embedded -->
+  <h3>IoT & Embedded</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,rust&theme=dark" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-RTOS-0D1117?style=for-the-badge&logo=freertos&logoColor=white"/>
       </td>
     </tr>
   </table>
