@@ -152,7 +152,7 @@
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF95"/>
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=000000&logo=LinkedIn&logoColor=00FF95&label="/>
     </a>
     &nbsp;
     <a href="https://instagram.com/fakeerrorx" target="_blank">
