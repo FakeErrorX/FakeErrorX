@@ -1,146 +1,158 @@
-# <div align="center">![ErrorX](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+ErrorX's+Terminal;%24+Initializing+System...;%24+Access+Granted+✓)</div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27,116,175&height=350&section=header&text=ErrorX&desc=Cyber%20Security%20Expert%20%7C%20Full%20Stack%20Developer&animation=fadeIn&fontColor=fff&fontSize=90&rotate=13&fontAlignY=25&descAlignY=45&descAlign=60" width="100%"/>
+  
+# 👨‍💻 ErrorX | Cyber Security Expert & Full-Stack Developer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Cyber+Security+Expert;Full-Stack+Developer;DevOps+Engineer;Network+Security+Specialist)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Bangladesh-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bengali-brightgreen" />
+</p>
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&pause=1000&color=27C4F5&center=true&vCenter=true&width=600&height=100&lines=SECURITY+RESEARCHER;FULL+STACK+DEVELOPER;PENETRATION+TESTER;DEVOPS+ENGINEER" alt="Typing SVG" />
-</div>
+## 🎯 About Me
+
+> *"Security is not a product, but a process."* - Bruce Schneier
+
+I'm a passionate Cybersecurity Expert and Full-Stack Developer from Bangladesh, dedicated to making the digital world more secure. With expertise spanning cybersecurity, full-stack development, DevOps, and network security, I bring a comprehensive approach to digital security and development.
 
 <div align="center">
-  <a href="https://github.com/fakeerrorx">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=1D2226&color=27C4F5&suffix=+Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfakeerrorx&longCache=true" alt="GitHub Followers" height="25"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
+</div>
+
+## 🔥 Expertise Areas
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ Cybersecurity</h3>
+      <ul>
+        <li>Penetration Testing</li>
+        <li>Vulnerability Assessment</li>
+        <li>Incident Response</li>
+        <li>Malware Analysis</li>
+        <li>Security Architecture</li>
+        <li>Threat Intelligence</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🌐 Full-Stack Development</h3>
+      <ul>
+        <li>Web Applications</li>
+        <li>Mobile Development</li>
+        <li>API Development</li>
+        <li>Database Design</li>
+        <li>Cloud Architecture</li>
+        <li>Microservices</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 🚀 Tech Stack
+
+### 🔒 Security Tools & Technologies
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🛢️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+## 🏆 Certifications & Achievements
+
+- 🎖️ Certified Ethical Hacker (CEH)
+- 🎖️ CompTIA Security+
+- 🎖️ AWS Certified Security Specialist
+- 🎖️ CISSP (Certified Information Systems Security Professional)
+- 🎖️ OSCP (Offensive Security Certified Professional)
+- 🎖️ Azure Security Engineer Associate
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fakeerrorx&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="ErrorX's Github Stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakeerrorx&theme=dark&hide_border=true&stroke=00ff00&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="ErrorX's Github Streak" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fakeerrorx&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="ErrorX's Github Activity Graph" />
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="mailto:info@errorx.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/fakeerrorx">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=twitter&label=Twitter&labelColor=1D2226&color=27C4F5&suffix=+Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dfakeerrorx&longCache=true" alt="Twitter Followers" height="25"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@fakeerrorx">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=youtube&label=YouTube&labelColor=1D2226&color=27C4F5&suffix=+Subscribers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dyoutube%26queryKey%3Dfakeerrorx&longCache=true" alt="YouTube Subscribers" height="25"/>
+  <a href="https://www.linkedin.com/in/fakeerrorx">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<h2 align="center">⚡ Technical Expertise</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,rust,react,vue,next,nodejs,docker,kubernetes,aws,azure,linux&theme=dark&perline=7" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=fakeerrorx&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=27C4F5&title_color=27C4F5&text_color=FFFFFF" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=fakeerrorx&theme=tokyonight&hide_border=true&background=00000000&stroke=27C4F5&ring=27C4F5&fire=1786FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=27C4F5&sideLabels=27C4F5&dates=FFFFFF" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">🛡️ Security Arsenal</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3 align="center">Offensive Security</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Web_Exploitation-1786FF?style=for-the-badge&logo=hackaday&logoColor=white" />
-          <img src="https://img.shields.io/badge/Mobile_Security-1786FF?style=for-the-badge&logo=android&logoColor=white" />
-          <img src="https://img.shields.io/badge/Network_Security-1786FF?style=for-the-badge&logo=cisco&logoColor=white" />
-          <img src="https://img.shields.io/badge/Cloud_Security-1786FF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-          <img src="https://img.shields.io/badge/Zero_Day_Research-1786FF?style=for-the-badge&logo=hackaday&logoColor=white" />
-        </div>
-      </td>
-      <td>
-        <h3 align="center">Defensive Security</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Threat_Detection-27C4F5?style=for-the-badge&logo=shield&logoColor=white" />
-          <img src="https://img.shields.io/badge/Malware_Analysis-27C4F5?style=for-the-badge&logo=virustotal&logoColor=white" />
-          <img src="https://img.shields.io/badge/Incident_Response-27C4F5?style=for-the-badge&logo=openbugbounty&logoColor=white" />
-          <img src="https://img.shields.io/badge/Digital_Forensics-27C4F5?style=for-the-badge&logo=forensics&logoColor=white" />
-          <img src="https://img.shields.io/badge/Zero_Trust-27C4F5?style=for-the-badge&logo=security&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Bug_Bounties-$300K+-27C4F5?style=for-the-badge&logo=hackerone&logoColor=white" />
-        <br/>
-        <sup>P1: 20 | P2: 45 | P3: 75</sup>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Security_Audits-150+-27C4F5?style=for-the-badge&logo=security&logoColor=white" />
-        <br/>
-        <sup>Critical Vulnerabilities Found</sup>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CTF_Ranking-Global_Top_100-27C4F5?style=for-the-badge&logo=hackthebox&logoColor=white" />
-        <br/>
-        <sup>50+ Competitions Won</sup>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">📊 Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakeerrorx&custom_title=Contribution%20Graph&bg_color=0D1117&color=27C4F5&line=1786FF&point=27C4F5&area_color=27C4F5&area=true&hide_border=true" width="95%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
-
-<h2 align="center">🔗 Connect</h2>
-
-<div align="center">
-  <a href="https://twitter.com/fakeerrorx">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=27C4F5" />
-  </a>
-  <a href="https://linkedin.com/in/fakeerrorx">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=27C4F5" />
-  </a>
-  <a href="https://errorx.me">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=27C4F5" />
-  </a>
-  <a href="https://youtube.com/@fakeerrorx">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=27C4F5" />
+  <a href="https://www.youtube.com/c/fakeerrorx">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
 
-<br/>
+## 🔐 Security Research & Contributions
+
+- 🔍 Active Bug Bounty Hunter
+- 📝 Security Research Publications
+- 🛡️ Open Source Security Tools Contributor
+- 🎓 Security Training & Workshops
+
+## 💼 Professional Services
+
+- 🔒 Security Auditing & Consulting
+- 💻 Full-Stack Development
+- 🚀 DevSecOps Implementation
+- 🌐 Network Security Solutions
+- 🛡️ Penetration Testing
+- 📊 Security Architecture Design
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&section=footer&color=gradient&customColorList=27,116,175" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=27C4F5&center=true&vCenter=true&width=500&lines=Building+the+Future+of+Cybersecurity+%F0%9F%94%92;Connect+with+me+for+Collaborations+%F0%9F%A4%9D" alt="Footer Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=fakeerrorx&color=brightgreen" alt="Profile Views" />
+  <h4>💻 Made with ❤️ by ErrorX</h4>
 </div>
