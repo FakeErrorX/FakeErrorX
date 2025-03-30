@@ -175,23 +175,123 @@
   <div style="margin-bottom: 20px;">
     <!-- Penetration Testing -->
     <h4>Penetration Testing</h4>
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim,nginx,git,kali,burpsuite,wireshark,metasploit,nmap,ghidra,ida,radare2&theme=dark&perline=7" />
+    <table align="center">
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim,nginx,git&theme=dark" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burp&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Nmap-DA1F26?style=for-the-badge&logo=nmap&logoColor=white"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Ghidra-4B8BBE?style=for-the-badge&logo=ghidra&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-IDA%20Pro-836FFF?style=for-the-badge&logo=ida&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Radare2-FF1493?style=for-the-badge&logo=radare2&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Cobalt%20Strike-1E90FF?style=for-the-badge&logo=cobaltstrike&logoColor=white"/>
+        </td>
+      </tr>
+    </table>
     
     <!-- Defensive Security -->
     <h4>Defensive Security</h4>
-    <img src="https://skillicons.dev/icons?i=volatility,snort,suricata,splunk,elk,openvas,wazuh,ossec,yara,cuckoo,zeek,graylog&theme=dark&perline=6" />
+    <table align="center">
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Volatility-4169E1?style=for-the-badge&logo=volatility&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Snort-FF4500?style=for-the-badge&logo=snort&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Suricata-EE4B2B?style=for-the-badge&logo=suricata&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-OpenVAS-FFA500?style=for-the-badge&logo=openvas&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Wazuh-35BF5C?style=for-the-badge&logo=wazuh&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-OSSEC-00008B?style=for-the-badge&logo=ossec&logoColor=white"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-YARA-2E8B57?style=for-the-badge&logo=yara&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Cuckoo-4B0082?style=for-the-badge&logo=cuckoo&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Zeek-8B0000?style=for-the-badge&logo=zeek&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Graylog-FF69B4?style=for-the-badge&logo=graylog&logoColor=white"/>
+        </td>
+      </tr>
+    </table>
     
     <!-- Application Security -->
     <h4>Application Security</h4>
-    <img src="https://skillicons.dev/icons?i=owasp,zap,acunetix,nessus,nexpose,checkmarx,fortify,veracode,sonarqube&theme=dark&perline=6" />
+    <table align="center">
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-OWASP%20ZAP-2E8B57?style=for-the-badge&logo=owasp&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Acunetix-FF0000?style=for-the-badge&logo=acunetix&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Nessus-7FFF00?style=for-the-badge&logo=nessus&logoColor=black"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Nexpose-4682B4?style=for-the-badge&logo=rapid7&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Checkmarx-00CED1?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Fortify-FF8C00?style=for-the-badge&logo=microfocus&logoColor=white"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Veracode-FF1493?style=for-the-badge&logo=veracode&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-SonarQube-4B0082?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-AppScan-1E90FF?style=for-the-badge&logo=ibm&logoColor=white"/>
+        </td>
+      </tr>
+    </table>
     
     <!-- Forensics & Malware Analysis -->
     <h4>Forensics & Malware Analysis</h4>
-    <img src="https://skillicons.dev/icons?i=autopsy,volatility,rekall,sleuthkit,immunity,ollydbg,x64dbg,pestudio&theme=dark&perline=6" />
+    <table align="center">
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Autopsy-483D8B?style=for-the-badge&logo=autopsy&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Volatility-4169E1?style=for-the-badge&logo=volatility&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Rekall-9370DB?style=for-the-badge&logo=rekall&logoColor=white"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-SleuthKit-8B4513?style=for-the-badge&logo=sleuthkit&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-x64dbg-FF4500?style=for-the-badge&logo=x64dbg&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-PEStudio-2E8B57?style=for-the-badge&logo=pestudio&logoColor=white"/>
+        </td>
+      </tr>
+    </table>
     
     <!-- Cloud Security -->
     <h4>Cloud Security</h4>
-    <img src="https://skillicons.dev/icons?i=cloudsploit,prowler,scout,falco,trivy,aqua,prismacloud,cloudcustodian&theme=dark&perline=6" />
+    <table align="center">
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-CloudSploit-4169E1?style=for-the-badge&logo=aqua&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-AWS%20Prowler-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Falco-00CED1?style=for-the-badge&logo=falco&logoColor=white"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Trivy-2E8B57?style=for-the-badge&logo=aqua&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Prisma%20Cloud-4B0082?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-Cloud%20Custodian-1E90FF?style=for-the-badge&logo=cloud&logoColor=white"/>
+        </td>
+      </tr>
+    </table>
   </div>
   
   <!-- Mobile Development -->
