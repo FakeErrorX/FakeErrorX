@@ -155,7 +155,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,php,go,cs,rust,kotlin&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,dart,go,rust,kotlin,flutter&theme=dark" />
       </td>
     </tr>
   </table>
