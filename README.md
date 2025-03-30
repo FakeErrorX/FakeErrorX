@@ -16,7 +16,7 @@
   <a href="https://github.com/fakeerrorx?tab=repositories&sort=stargazers">
     <img src="https://custom-icon-badges.demolab.com/github/stars/fakeerrorx?style=for-the-badge&color=00B2FF&labelColor=0D1117&logo=star&logoColor=00FF95"/>
   </a>
-  <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=00FF95&color=00B2FF&labelColor=0D1117&label=Profile+Views&style=for-the-badge&query=%24.count&url=https://api.github-star-counter.workers.dev/user/fakeerrorx"/>
+  <img src="https://komarev.com/ghpvc/?username=fakeerrorx&label=Profile%20Views&color=00B2FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
 </div>
 
 <!-- Futuristic About Section -->
@@ -173,7 +173,6 @@
 
 <!-- Holographic Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fakeerrorx&label=Profile%20Views&color=00FF95&style=for-the-badge" alt="Profile Views"/>
   <br><br>
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
