@@ -185,7 +185,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,elasticsearch&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,elasticsearch,supabase&theme=dark" />
       </td>
     </tr>
   </table>
@@ -195,7 +195,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,github,terraform,prometheus,grafana&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,github,cloudflare,terraform,grafana&theme=dark" />
       </td>
     </tr>
   </table>
