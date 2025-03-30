@@ -1,92 +1,97 @@
 <!-- Header Section -->
 <div align="center">
   
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/fakeerrorx)
+
 # 👨‍💻 ErrorX | Cyber Security Expert & Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cyber+Security+Expert+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Developer+%F0%9F%8C%90;DevOps+Engineer+%F0%9F%9A%80;Network+Security+Specialist+%F0%9F%94%92)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=70&lines=Cyber+Security+Expert+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Developer+%F0%9F%8C%90;DevOps+Engineer+%F0%9F%9A%80;Network+Security+Specialist+%F0%9F%94%92)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-brightgreen?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lives-Bangladesh-success?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bengali-brightgreen?style=for-the-badge&logo=languages&logoColor=white" />
+  <a href="https://github.com/fakeerrorx">
+    <img src="https://img.shields.io/badge/Focus-Cyber%20Security-brightgreen?style=flat-square&logo=shield&logoColor=white" />
+  </a>
+  <a href="https://www.google.com/maps/place/Bangladesh">
+    <img src="https://img.shields.io/badge/Location-Bangladesh-success?style=flat-square&logo=google-maps&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Languages-English%20%26%20Bengali-brightgreen?style=flat-square&logo=languages&logoColor=white" />
+  </a>
 </div>
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://twitter.com/fakeerrorx"><img src="https://img.shields.io/twitter/follow/fakeerrorx?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://github.com/fakeerrorx"><img src="https://img.shields.io/github/followers/fakeerrorx?logo=github&style=for-the-badge" alt="GitHub" /></a>
-  <a href="https://www.youtube.com/c/fakeerrorx"><img src="https://img.shields.io/youtube/channel/subscribers/UCX6OQ3DkcsbYNE6H8uQQuVA?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
+  <a href="https://twitter.com/fakeerrorx">
+    <img src="https://img.shields.io/twitter/follow/fakeerrorx?logo=twitter&style=flat-square&color=1da1f2&labelColor=000000&label=Twitter" alt="Twitter" />
+  </a>
+  <a href="https://github.com/fakeerrorx">
+    <img src="https://img.shields.io/github/followers/fakeerrorx?logo=github&style=flat-square&color=00ff00&labelColor=000000&label=GitHub" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/c/fakeerrorx">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCX6OQ3DkcsbYNE6H8uQQuVA?style=flat-square&logo=youtube&label=YouTube&color=FF0000&labelColor=000000" alt="YouTube" />
+  </a>
 </div>
 
 </div>
 
 <!-- Animated Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header&text=Welcome%20to%20my%20Digital%20Realm&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 
 ## 🎯 About Me
 
-> *"In the world of cybersecurity, the only constant is change."*
+> *"In the realm of cybersecurity, innovation is the key to protection, and knowledge is the path to prevention."*
 
 I'm a passionate Cybersecurity Expert and Full-Stack Developer from Bangladesh, dedicated to making the digital world more secure. With expertise spanning cybersecurity, full-stack development, DevOps, and network security, I bring a comprehensive approach to digital security and development.
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" alt="Trophy" align="middle" /> <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=matrix&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" /> <br><br>
 </div>
 
 ## 🔥 Expertise Areas
 
-<table>
+<table align="center" border="none">
   <tr>
-    <td width="33%">
-      <h3 align="center">🛡️ Cybersecurity</h3>
-      <div align="center">
-        <img width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJtY3E3Z2JrcXB1dWR5NXVhOWRwbXBxbGxsdm9lcjY2YnIyaHR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
-      </div>
-      <br>
-      <ul>
-        <li>🔍 Penetration Testing</li>
-        <li>🎯 Vulnerability Assessment</li>
-        <li>🚨 Incident Response</li>
-        <li>🦠 Malware Analysis</li>
-        <li>🏗️ Security Architecture</li>
-        <li>🔰 Threat Intelligence</li>
-        <li>🕵️ Digital Forensics</li>
-        <li>🛑 Zero-Day Research</li>
-      </ul>
+    <td width="33%" align="center">
+      <img width="100" height="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+      <h3>🛡️ Cybersecurity</h3>
+      <p align="left">
+        ◆ Penetration Testing<br>
+        ◆ Vulnerability Assessment<br>
+        ◆ Incident Response<br>
+        ◆ Malware Analysis<br>
+        ◆ Security Architecture<br>
+        ◆ Threat Intelligence<br>
+        ◆ Digital Forensics<br>
+        ◆ Zero-Day Research
+      </p>
     </td>
-    <td width="33%">
-      <h3 align="center">🌐 Full-Stack Development</h3>
-      <div align="center">
-        <img width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-      </div>
-      <br>
-      <ul>
-        <li>💻 Web Applications</li>
-        <li>📱 Mobile Development</li>
-        <li>🔌 API Development</li>
-        <li>🗄️ Database Design</li>
-        <li>☁️ Cloud Architecture</li>
-        <li>🔄 Microservices</li>
-        <li>🎨 UI/UX Design</li>
-        <li>🔧 System Architecture</li>
-      </ul>
+    <td width="33%" align="center">
+      <img width="100" height="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
+      <h3>🌐 Full-Stack Development</h3>
+      <p align="left">
+        ◆ Web Applications<br>
+        ◆ Mobile Development<br>
+        ◆ API Development<br>
+        ◆ Database Design<br>
+        ◆ Cloud Architecture<br>
+        ◆ Microservices<br>
+        ◆ UI/UX Design<br>
+        ◆ System Architecture
+      </p>
     </td>
-    <td width="33%">
-      <h3 align="center">🚀 DevOps & Cloud</h3>
-      <div align="center">
-        <img width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHgzbXBiYmRnZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFZvB7VIXBgiz3oDXE/giphy.gif"/>
-      </div>
-      <br>
-      <ul>
-        <li>🐳 Container Orchestration</li>
-        <li>🔄 CI/CD Pipelines</li>
-        <li>📊 Infrastructure as Code</li>
-        <li>📈 Performance Optimization</li>
-        <li>🔍 Log Management</li>
-        <li>🚦 Traffic Management</li>
-        <li>🛠️ Automation</li>
-        <li>🔐 Security Integration</li>
-      </ul>
+    <td width="33%" align="center">
+      <img width="100" height="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" />
+      <h3>🚀 DevOps & Cloud</h3>
+      <p align="left">
+        ◆ Container Orchestration<br>
+        ◆ CI/CD Pipelines<br>
+        ◆ Infrastructure as Code<br>
+        ◆ Performance Optimization<br>
+        ◆ Log Management<br>
+        ◆ Traffic Management<br>
+        ◆ Automation<br>
+        ◆ Security Integration
+      </p>
     </td>
   </tr>
 </table>
@@ -382,30 +387,31 @@ I'm a passionate Cybersecurity Expert and Full-Stack Developer from Bangladesh, 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakeerrorx&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="ErrorX's Github Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fakeerrorx&show_icons=true&count_private=true&hide_border=false&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=0d1117&border_color=00ff00" alt="ErrorX's Github Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeerrorx&layout=compact&hide_border=false&title_color=00ff00&text_color=c9d1d9&bg_color=0d1117&border_color=00ff00" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakeerrorx&theme=dark&hide_border=true&stroke=00ff00&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="ErrorX's Github Streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=fakeerrorx&theme=github-dark&hide_border=false&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&border=00ff00" alt="ErrorX's Github Streak" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakeerrorx&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="ErrorX's Github Activity Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=fakeerrorx&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false&border_color=00ff00" alt="ErrorX's Github Activity Graph" />
 </div>
 
 ## 🌐 Connect with Me
 
 <div align="center">
   <a href="mailto:info@errorx.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail" />
   </a>
   <a href="https://twitter.com/fakeerrorx">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter" />
   </a>
   <a href="https://www.linkedin.com/in/fakeerrorx">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://www.youtube.com/c/fakeerrorx">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube" />
   </a>
   <a href="https://discord.gg/fakeerrorx">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord" />
   </a>
 </div>
 
@@ -457,10 +463,10 @@ I'm a passionate Cybersecurity Expert and Full-Stack Developer from Bangladesh, 
   </table>
 </div>
 
-<!-- Animated Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fakeerrorx&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fakeerrorx&label=Profile%20Views&color=00ff00&style=flat-square" alt="Profile Views" />
   <h4>💻 Made with ❤️ by ErrorX | Last Updated: 2024</h4>
 </div>
