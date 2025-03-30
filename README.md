@@ -4,8 +4,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,16,24&height=200&section=header&text=ErrorX&desc=Cyber%20Security%20Expert&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55&descSize=20" />
 
   <!-- Animated SVG Typing with Custom Style -->
-  <div style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); padding: 3px; border-radius: 10px; margin: 10px;">
-    <div style="background: #0D1117; padding: 10px; border-radius: 8px;">
+  <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 2px; border-radius: 15px; margin: 15px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    <div style="background: #0D1117; padding: 15px; border-radius: 13px;">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&lines=Penetration+Testing+Specialist;Security+Researcher;Red+Team+Expert;Bug+Bounty+Hunter;CTF+Player" alt="Typing SVG" />
       </a>
@@ -13,36 +13,28 @@
   </div>
 
   <!-- Premium Profile Stats with Custom Design -->
-  <div style="margin: 20px 0;">
-    <table>
-      <tr>
-        <td>
-          <img src="https://komarev.com/ghpvc/?username=fakeerrorx&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS">
-        </td>
-        <td>
-          <a href="https://twitter.com/fakeerrorx">
-            <img src="https://img.shields.io/twitter/follow/fakeerrorx?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000">
-          </a>
-        </td>
-        <td>
-          <a href="mailto:info@errorx.me">
-            <img src="https://custom-icon-badges.demolab.com/badge/-info@errorx.me-red?style=for-the-badge&logo=mail&logoColor=white&labelColor=000000">
-          </a>
-        </td>
-      </tr>
-    </table>
+  <div style="margin: 25px 0;">
+    <a href="#" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://komarev.com/ghpvc/?username=fakeerrorx&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
+    </a>
+    <a href="https://twitter.com/fakeerrorx" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/twitter/follow/fakeerrorx?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter Follow" />
+    </a>
+    <a href="mailto:info@errorx.me" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://custom-icon-badges.demolab.com/badge/-info@errorx.me-red?style=for-the-badge&logo=mail&logoColor=white&labelColor=000000" alt="Email" />
+    </a>
   </div>
 </div>
 
 <!-- Premium About Me Section with Custom Design -->
 <div align="center">
-  <div style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); padding: 3px; border-radius: 10px; margin: 20px 0;">
-    <div style="background: #0D1117; padding: 20px; border-radius: 8px;">
-      <h2>
+  <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 2px; border-radius: 15px; margin: 25px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    <div style="background: #0D1117; padding: 25px; border-radius: 13px;">
+      <h2 style="margin-bottom: 20px; display: flex; align-items: center; justify-content: center; gap: 10px;">
         <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24px" height="24px">
         About Me
       </h2>
-      <div style="text-align: left; padding: 10px;">
+      <div style="text-align: left; padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px;">
         ```yaml
         {
           "name": "ErrorX",
@@ -79,26 +71,26 @@
 
 <!-- Premium Connect Section with Hover Effects -->
 <div align="center">
-  <div style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); padding: 3px; border-radius: 10px; margin: 20px 0;">
-    <div style="background: #0D1117; padding: 20px; border-radius: 8px;">
-      <h2>
+  <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 2px; border-radius: 15px; margin: 25px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    <div style="background: #0D1117; padding: 25px; border-radius: 13px;">
+      <h2 style="margin-bottom: 20px; display: flex; align-items: center; justify-content: center; gap: 10px;">
         <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
         Connect with me
       </h2>
-      <div style="margin: 20px 0;">
-        <a href="https://codepen.io/fakeerrorx" target="_blank" style="margin: 0 5px;">
+      <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
+        <a href="https://codepen.io/fakeerrorx" target="_blank" style="transform: scale(1); transition: transform 0.2s;">
           <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=black"/>
         </a>
-        <a href="https://twitter.com/fakeerrorx" target="_blank" style="margin: 0 5px;">
+        <a href="https://twitter.com/fakeerrorx" target="_blank" style="transform: scale(1); transition: transform 0.2s;">
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
         </a>
-        <a href="https://fb.com/fakeerrorx" target="_blank" style="margin: 0 5px;">
+        <a href="https://fb.com/fakeerrorx" target="_blank" style="transform: scale(1); transition: transform 0.2s;">
           <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2"/>
         </a>
-        <a href="https://instagram.com/fakeerrorx" target="_blank" style="margin: 0 5px;">
+        <a href="https://instagram.com/fakeerrorx" target="_blank" style="transform: scale(1); transition: transform 0.2s;">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
         </a>
-        <a href="https://www.youtube.com/c/fakeerrorx" target="_blank" style="margin: 0 5px;">
+        <a href="https://www.youtube.com/c/fakeerrorx" target="_blank" style="transform: scale(1); transition: transform 0.2s;">
           <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"/>
         </a>
       </div>
@@ -108,78 +100,68 @@
 
 <!-- Premium Skills Section with Custom Design -->
 <div align="center">
-  <div style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); padding: 3px; border-radius: 10px; margin: 20px 0;">
-    <div style="background: #0D1117; padding: 20px; border-radius: 8px;">
-      <h2>
+  <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 2px; border-radius: 15px; margin: 25px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    <div style="background: #0D1117; padding: 25px; border-radius: 13px;">
+      <h2 style="margin-bottom: 20px; display: flex; align-items: center; justify-content: center; gap: 10px;">
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
         Technical Arsenal
       </h2>
 
-      <!-- Expanded Skill Categories with Custom Design -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
+      <!-- Skill Categories with Custom Design -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; padding: 10px;">
         <!-- Security Tools Category -->
-        <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px;">
-          <h3>🔒 Security Expertise</h3>
-          <img src="https://skillicons.dev/icons?i=linux,bash,powershell,py&theme=dark" /><br>
-          <p>
+        <div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 12px; transition: transform 0.2s;">
+          <h3 style="margin-bottom: 15px; color: #6AD3F7;">🔒 Security Expertise</h3>
+          <img style="margin-bottom: 15px;" src="https://skillicons.dev/icons?i=linux,bash,powershell,py&theme=dark" /><br>
+          <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
             <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"/>
             <img src="https://img.shields.io/badge/Metasploit-E34F26?style=flat-square&logo=metasploit&logoColor=white"/>
             <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white"/>
-          </p>
-          <p>
             <img src="https://img.shields.io/badge/Nmap-009933?style=flat-square&logo=nmap&logoColor=white"/>
             <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
             <img src="https://img.shields.io/badge/Snort-FF0000?style=flat-square&logo=snort&logoColor=white"/>
-          </p>
-          <p>
             <img src="https://img.shields.io/badge/IDA_Pro-4B275F?style=flat-square&logo=ida&logoColor=white"/>
             <img src="https://img.shields.io/badge/Ghidra-FF5733?style=flat-square&logo=ghidra&logoColor=white"/>
-          </p>
+          </div>
         </div>
 
         <!-- Development Category -->
-        <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px;">
-          <h3>💻 Development</h3>
-          <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust&theme=dark" /><br>
-          <p>
+        <div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 12px; transition: transform 0.2s;">
+          <h3 style="margin-bottom: 15px; color: #6AD3F7;">💻 Development</h3>
+          <img style="margin-bottom: 15px;" src="https://skillicons.dev/icons?i=js,ts,python,go,rust&theme=dark" /><br>
+          <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
             <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-          </p>
-          <p>
             <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
             <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-          </p>
+          </div>
         </div>
 
         <!-- Cloud & DevOps Category -->
-        <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px;">
-          <h3>☁️ Cloud & DevOps</h3>
-          <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes&theme=dark" /><br>
-          <p>
+        <div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 12px; transition: transform 0.2s;">
+          <h3 style="margin-bottom: 15px; color: #6AD3F7;">☁️ Cloud & DevOps</h3>
+          <img style="margin-bottom: 15px;" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes&theme=dark" /><br>
+          <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
             <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
             <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white"/>
-          </p>
-          <p>
             <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
             <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-          </p>
+          </div>
         </div>
 
         <!-- Database & Analytics Category -->
-        <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px;">
-          <h3>📊 Database & Analytics</h3>
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" /><br>
-          <p>
+        <div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 12px; transition: transform 0.2s;">
+          <h3 style="margin-bottom: 15px; color: #6AD3F7;">📊 Database & Analytics</h3>
+          <img style="margin-bottom: 15px;" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" /><br>
+          <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
             <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
             <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-          </p>
-          <p>
             <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
             <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white"/>
-          </p>
+          </div>
         </div>
       </div>
     </div>
@@ -329,5 +311,5 @@
 
 <!-- Premium Footer with Custom Design -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,16,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,16,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65" />
 </div>
