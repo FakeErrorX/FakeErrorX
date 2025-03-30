@@ -1,315 +1,195 @@
-<!-- Premium Header with Custom Styling -->
+<!-- Header Banner -->
 <div align="center">
-  <!-- Custom Header Banner with Glowing Effect -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,16,24&height=200&section=header&text=ErrorX&desc=Cyber%20Security%20Expert&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55&descSize=20" />
-
-  <!-- Animated SVG Typing with Custom Style -->
-  <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 2px; border-radius: 15px; margin: 15px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <div style="background: #0D1117; padding: 15px; border-radius: 13px;">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&lines=Penetration+Testing+Specialist;Security+Researcher;Red+Team+Expert;Bug+Bounty+Hunter;CTF+Player" alt="Typing SVG" />
-      </a>
-    </div>
-  </div>
-
-  <!-- Premium Profile Stats with Custom Design -->
-  <div style="margin: 25px 0;">
-    <a href="#" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://komarev.com/ghpvc/?username=fakeerrorx&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
-    <a href="https://twitter.com/fakeerrorx" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/twitter/follow/fakeerrorx?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter Follow" />
-    </a>
-    <a href="mailto:info@errorx.me" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://custom-icon-badges.demolab.com/badge/-info@errorx.me-red?style=for-the-badge&logo=mail&logoColor=white&labelColor=000000" alt="Email" />
-    </a>
-  </div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ErrorX&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white"/>
 </div>
 
-<!-- Premium About Me Section with Custom Design -->
+<!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fakeerrorx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+<!-- Introduction -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ErrorX!;+Welcome+to+my+Profile!;" />
+</h1>
+
+<h3 align="center">🔒 Cyber Security Expert & Full Stack Developer from Bangladesh 🌐</h3>
+
+<br/>
+
+<!-- About Me Section -->
 <div align="center">
-  <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 2px; border-radius: 15px; margin: 25px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <div style="background: #0D1117; padding: 25px; border-radius: 13px;">
-      <h2 style="margin-bottom: 20px; display: flex; align-items: center; justify-content: center; gap: 10px;">
-        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24px" height="24px">
-        About Me
-      </h2>
-      <div style="text-align: left; padding: 15px; background: rgba(255,255,255,0.03); border-radius: 10px;">
-        ```yaml
-        {
-          "name": "ErrorX",
-          "title": "Cyber Security Expert",
-          "location": "Bangladesh 🇧🇩",
-          "specialization": {
-            "primary": "Advanced Penetration Testing",
-            "secondary": [
-              "Red Team Operations",
-              "Malware Analysis",
-              "Reverse Engineering"
-            ]
-          },
-          "focus_areas": [
-            "⚡ Advanced Penetration Testing & Red Teaming",
-            "🛡️ Enterprise Security Architecture",
-            "🔍 Advanced Threat Detection & Hunting",
-            "🌐 Web Application Security Assessment",
-            "📱 Mobile Application Security Testing",
-            "🔒 Zero Trust Security Implementation",
-            "☁️ Cloud Security Architecture & DevSecOps"
-          ],
-          "achievements": {
-            "bug_bounties": "Multiple Hall of Fame",
-            "ctf_ranking": "Global Top 1%",
-            "certifications": "OSCP, CEH, CISSP"
-          }
-        }
-        ```
-      </div>
-    </div>
-  </div>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=churchill&font=Redressed" alt="Random Dev Quote"/>
 </div>
 
-<!-- Premium Connect Section with Hover Effects -->
+<h2>🧑‍💻 About Me</h2>
+
+```javascript
+const ErrorX = {
+    location: "Bangladesh",
+    currentFocus: "Full Stack Development & Cyber Security",
+    workingOn: ["Web Security", "Penetration Testing", "Full Stack Apps"],
+    learning: ["New Security Techniques", "Cloud Architecture", "DevSecOps"],
+    askMeAbout: ["Web Dev", "Cyber Security", "Ethical Hacking", "Tech"],
+    funFact: "I can speak binary! (Just kidding, but I do speak multiple programming languages)"
+};
+```
+
+<!-- Current Status -->
+<h2>🎯 Current Status</h2>
+
+- 🔭 I'm currently working on **Advanced Security Projects**
+- 🌱 I'm currently learning **Advanced Cloud Security & DevSecOps**
+- 👯 I'm looking to collaborate on **Security Tools Development**
+- 💬 Ask me about **Web Security, Full Stack Development, Cloud Security**
+- 📫 Reach me at **info@errorx.me**
+- ⚡ Fun fact: **I hack systems to make them more secure!**
+
+<!-- Skills Section -->
+<h2>🛠️ Technical Arsenal</h2>
+
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br/>
 <div align="center">
-  <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 2px; border-radius: 15px; margin: 25px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <div style="background: #0D1117; padding: 25px; border-radius: 13px;">
-      <h2 style="margin-bottom: 20px; display: flex; align-items: center; justify-content: center; gap: 10px;">
-        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-        Connect with me
-      </h2>
-      <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
-        <a href="https://codepen.io/fakeerrorx" target="_blank" style="transform: scale(1); transition: transform 0.2s;">
-          <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=black"/>
-        </a>
-        <a href="https://twitter.com/fakeerrorx" target="_blank" style="transform: scale(1); transition: transform 0.2s;">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
-        </a>
-        <a href="https://fb.com/fakeerrorx" target="_blank" style="transform: scale(1); transition: transform 0.2s;">
-          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2"/>
-        </a>
-        <a href="https://instagram.com/fakeerrorx" target="_blank" style="transform: scale(1); transition: transform 0.2s;">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
-        </a>
-        <a href="https://www.youtube.com/c/fakeerrorx" target="_blank" style="transform: scale(1); transition: transform 0.2s;">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"/>
-        </a>
-      </div>
-    </div>
-  </div>
+  
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br/>
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Backend Development</b></summary>
+<br/>
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Database Technologies</b></summary>
+<br/>
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Cloud & DevOps</b></summary>
+<br/>
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Security Tools & Technologies</b></summary>
+<br/>
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge&logo=burp-suite&logoColor=white)
+
+</div>
+</details>
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fakeerrorx&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="ErrorX github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeerrorx&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
-<!-- Premium Skills Section with Custom Design -->
+<!-- GitHub Trophies -->
 <div align="center">
-  <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 2px; border-radius: 15px; margin: 25px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <div style="background: #0D1117; padding: 25px; border-radius: 13px;">
-      <h2 style="margin-bottom: 20px; display: flex; align-items: center; justify-content: center; gap: 10px;">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-        Technical Arsenal
-      </h2>
-
-      <!-- Skill Categories with Custom Design -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; padding: 10px;">
-        <!-- Security Tools Category -->
-        <div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 12px; transition: transform 0.2s;">
-          <h3 style="margin-bottom: 15px; color: #6AD3F7;">🔒 Security Expertise</h3>
-          <img style="margin-bottom: 15px;" src="https://skillicons.dev/icons?i=linux,bash,powershell,py&theme=dark" /><br>
-          <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-            <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Metasploit-E34F26?style=flat-square&logo=metasploit&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Nmap-009933?style=flat-square&logo=nmap&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Snort-FF0000?style=flat-square&logo=snort&logoColor=white"/>
-            <img src="https://img.shields.io/badge/IDA_Pro-4B275F?style=flat-square&logo=ida&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Ghidra-FF5733?style=flat-square&logo=ghidra&logoColor=white"/>
-          </div>
-        </div>
-
-        <!-- Development Category -->
-        <div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 12px; transition: transform 0.2s;">
-          <h3 style="margin-bottom: 15px; color: #6AD3F7;">💻 Development</h3>
-          <img style="margin-bottom: 15px;" src="https://skillicons.dev/icons?i=js,ts,python,go,rust&theme=dark" /><br>
-          <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-          </div>
-        </div>
-
-        <!-- Cloud & DevOps Category -->
-        <div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 12px; transition: transform 0.2s;">
-          <h3 style="margin-bottom: 15px; color: #6AD3F7;">☁️ Cloud & DevOps</h3>
-          <img style="margin-bottom: 15px;" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes&theme=dark" /><br>
-          <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-            <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-            <img src="https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-          </div>
-        </div>
-
-        <!-- Database & Analytics Category -->
-        <div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 12px; transition: transform 0.2s;">
-          <h3 style="margin-bottom: 15px; color: #6AD3F7;">📊 Database & Analytics</h3>
-          <img style="margin-bottom: 15px;" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" /><br>
-          <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-            <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white"/>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
-<!-- Premium Stats Section with Custom Design -->
+<!-- GitHub Streak Stats -->
 <div align="center">
-  <div style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); padding: 3px; border-radius: 10px; margin: 20px 0;">
-    <div style="background: #0D1117; padding: 20px; border-radius: 8px;">
-      <h2>
-        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-        GitHub Analytics
-      </h2>
-      
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakeerrorx&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7" alt="GitHub Streak" />
-      </p>
-      
-      <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" alt="Trophy" />
-      </p>
-
-      <!-- Custom Activity Graph -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakeerrorx&custom_title=ErrorX's%20Contribution%20Graph&bg_color=0D1117&color=FF1CF7&line=FF1CF7&point=FFFFFF&hide_border=true" width="100%"/>
-    </div>
-  </div>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fakeerrorx&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff"/>
 </div>
 
-<!-- Premium Certifications Section -->
+<!-- Contribution Graph -->
 <div align="center">
-  <div style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); padding: 3px; border-radius: 10px; margin: 20px 0;">
-    <div style="background: #0D1117; padding: 20px; border-radius: 8px;">
-      <h2>
-        <img src="https://media.giphy.com/media/3oKIPBxpm5tHqcL1Ic/giphy.gif" width="30">
-        Professional Certifications
-      </h2>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; padding: 20px;">
-        <!-- Offensive Security -->
-        <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px;">
-          <h3>🎯 Offensive Security</h3>
-          <p>
-            <img src="https://img.shields.io/badge/OSCP-Offensive_Security-FF0000?style=for-the-badge&logo=acclaim&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CEH-EC_Council-00B167?style=for-the-badge&logo=acclaim&logoColor=white"/>
-          </p>
-        </div>
-        <!-- Security Management -->
-        <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px;">
-          <h3>🛡️ Security Management</h3>
-          <p>
-            <img src="https://img.shields.io/badge/CISSP-ISC²-0052CC?style=for-the-badge&logo=acclaim&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Security+-CompTIA-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
-          </p>
-        </div>
-        <!-- Cloud Security -->
-        <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px;">
-          <h3>☁️ Cloud Security</h3>
-          <p>
-            <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Azure-Security_Engineer-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakeerrorx&theme=react-dark&hide_border=true&area=true" />
 </div>
 
-<!-- Premium Projects Section -->
+<!-- Connect With Me -->
+<h2>🌐 Connect With Me</h2>
+
 <div align="center">
-  <div style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); padding: 3px; border-radius: 10px; margin: 20px 0;">
-    <div style="background: #0D1117; padding: 20px; border-radius: 8px;">
-      <h2>
-        <img src="https://media.giphy.com/media/CcwLAV11cALh3TeQay/giphy.gif" width="30">
-        Featured Projects
-      </h2>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
-        <!-- Security Tools -->
-        <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px;">
-          <h3>🛠️ Security Tools</h3>
-          <p>Custom security assessment and penetration testing tools</p>
-          <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
-          </p>
-        </div>
-        <!-- Web Security -->
-        <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px;">
-          <h3>🌐 Web Security</h3>
-          <p>Web application security testing and automation frameworks</p>
-          <p>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-          </p>
-        </div>
-        <!-- Cloud Security -->
-        <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 8px;">
-          <h3>☁️ Cloud Security</h3>
-          <p>Cloud infrastructure security assessment tools</p>
-          <p>
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
+  <a href="https://twitter.com/fakeerrorx" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+  <a href="https://linkedin.com/in/fakeerrorx" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/fakeerrorx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:info@errorx.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://fb.com/fakeerrorx" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+  </a>
 </div>
 
-<!-- Premium Blog & Writing Section -->
+<!-- Footer -->
 <div align="center">
-  <div style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); padding: 3px; border-radius: 10px; margin: 20px 0;">
-    <div style="background: #0D1117; padding: 20px; border-radius: 8px;">
-      <h2>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-        Latest Blog Posts
-      </h2>
-      <div style="text-align: left; padding: 20px;">
-        • <a href="#" style="color: #6AD3F7;">Advanced Web Application Penetration Testing Techniques</a><br>
-        • <a href="#" style="color: #6AD3F7;">Cloud Security Architecture Best Practices</a><br>
-        • <a href="#" style="color: #6AD3F7;">Mobile Application Security Assessment Guide</a><br>
-        • <a href="#" style="color: #6AD3F7;">Zero Trust Security Implementation Strategies</a>
-      </div>
-    </div>
-  </div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
 
-<!-- Premium Support Section -->
+<!-- Visitor Counter -->
 <div align="center">
-  <div style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); padding: 3px; border-radius: 10px; margin: 20px 0;">
-    <div style="background: #0D1117; padding: 20px; border-radius: 8px;">
-      <h2>
-        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-        Support My Work
-      </h2>
-      <p>If you find my work helpful, consider supporting me:</p>
-      <p>
-        <a href="https://www.buymeacoffee.com/fakeerrorx">
-          <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-        </a>
-        <a href="https://github.com/sponsors/fakeerrorx">
-          <img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white"/>
-        </a>
-      </p>
-    </div>
-  </div>
-</div>
-
-<!-- Premium Footer with Custom Design -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,16,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65" />
+  <img src="https://profile-counter.glitch.me/fakeerrorx/count.svg" />
 </div>
