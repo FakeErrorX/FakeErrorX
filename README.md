@@ -150,15 +150,19 @@
     <a href="https://twitter.com/fakeerrorx" target="_blank">
       <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=00FF95"/>
     </a>
+    &nbsp;
     <a href="https://linkedin.com/in/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF95"/>
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF95"/>
     </a>
+    &nbsp;
     <a href="https://instagram.com/fakeerrorx" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF95"/>
     </a>
+    &nbsp;
     <a href="https://facebook.com/fakeerrorx" target="_blank">
       <img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF95"/>
     </a>
+    &nbsp;
     <a href="https://youtube.com/c/fakeerrorx" target="_blank">
       <img src="https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF95"/>
     </a>
