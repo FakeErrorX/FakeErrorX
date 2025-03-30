@@ -147,25 +147,36 @@
   </h2>
   
   <div style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
-    <a href="https://twitter.com/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=00FF95"/>
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF95"/>
-    </a>
-    &nbsp;
-    <a href="https://instagram.com/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FF95"/>
-    </a>
-    &nbsp;
-    <a href="https://facebook.com/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=00FF95"/>
-    </a>
-    &nbsp;
-    <a href="https://youtube.com/c/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=00FF95"/>
-    </a>
+    <p align="center">
+      <a href="https://twitter.com/fakeerrorx" target="_blank">
+        <img src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=00FF95&color=000000"/>
+      </a>
+      &nbsp;
+      <a href="https://linkedin.com/in/fakeerrorx" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%23000000.svg?&style=for-the-badge&logo=linkedin&logoColor=00FF95&color=000000"/>
+      </a>
+      &nbsp;
+      <a href="https://instagram.com/fakeerrorx" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=00FF95&color=000000"/>
+      </a>
+      &nbsp;
+      <a href="https://facebook.com/fakeerrorx" target="_blank">
+        <img src="https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=00FF95&color=000000"/>
+      </a>
+      &nbsp;
+      <a href="https://youtube.com/c/fakeerrorx" target="_blank">
+        <img src="https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=00FF95&color=000000"/>
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://errorx.me" target="_blank">
+        <img src="https://img.shields.io/badge/Website-errorx.me-%23000000.svg?&style=for-the-badge&logo=globe&logoColor=00FF95&color=000000"/>
+      </a>
+      &nbsp;
+      <a href="mailto:info@errorx.me">
+        <img src="https://img.shields.io/badge/Email-info@errorx.me-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=00FF95&color=000000"/>
+      </a>
+    </p>
   </div>
 </div>
 
