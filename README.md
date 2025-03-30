@@ -155,7 +155,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,php,go,rust&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,php,go,rust,perl,r&theme=dark" />
       </td>
     </tr>
   </table>
@@ -165,14 +165,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,nextjs&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" />
-        <img src="https://custom-icon-badges.demolab.com/badge/-Three.js-0D1117?style=for-the-badge&logo=three.js&logoColor=white"/>
-        <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,nextjs,tailwind,bootstrap,threejs,figma&theme=dark" />
       </td>
     </tr>
   </table>
@@ -182,13 +175,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=graphql&theme=dark" />
-        <img src="https://custom-icon-badges.demolab.com/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,graphql,nestjs&theme=dark" />
       </td>
     </tr>
   </table>
@@ -198,13 +185,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://custom-icon-badges.demolab.com/badge/-Elasticsearch-0D1117?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-        <img src="https://custom-icon-badges.demolab.com/badge/-DynamoDB-0D1117?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,elasticsearch&theme=dark" />
       </td>
     </tr>
   </table>
@@ -214,14 +195,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,github&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=terraform&theme=dark" />
-        <img src="https://custom-icon-badges.demolab.com/badge/-Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=white"/>
-        <img src="https://custom-icon-badges.demolab.com/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,github,terraform,prometheus,grafana&theme=dark" />
       </td>
     </tr>
   </table>
@@ -234,16 +208,14 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
-        <img src="https://custom-icon-badges.demolab.com/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-        <img src="https://custom-icon-badges.demolab.com/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burp&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim&theme=dark" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://custom-icon-badges.demolab.com/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burp&logoColor=white"/>
         <img src="https://custom-icon-badges.demolab.com/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white"/>
-        <img src="https://custom-icon-badges.demolab.com/badge/-Nmap-DA1F26?style=for-the-badge&logo=nmap&logoColor=white"/>
       </td>
     </tr>
   </table>
@@ -253,15 +225,13 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://custom-icon-badges.demolab.com/badge/-Snort-FF4500?style=for-the-badge&logo=snort&logoColor=white"/>
-        <img src="https://custom-icon-badges.demolab.com/badge/-Suricata-EE4B2B?style=for-the-badge&logo=suricata&logoColor=white"/>
-        <img src="https://custom-icon-badges.demolab.com/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=nginx,jenkins&theme=dark" />
       </td>
     </tr>
     <tr>
       <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
         <img src="https://custom-icon-badges.demolab.com/badge/-ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-        <img src="https://custom-icon-badges.demolab.com/badge/-Wazuh-35BF5C?style=for-the-badge&logo=wazuh&logoColor=white"/>
       </td>
     </tr>
   </table>
@@ -271,8 +241,12 @@
   <table align="center">
     <tr>
       <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,gitlab,regex&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <img src="https://custom-icon-badges.demolab.com/badge/-OWASP%20ZAP-2E8B57?style=for-the-badge&logo=owasp&logoColor=white"/>
-        <img src="https://custom-icon-badges.demolab.com/badge/-Acunetix-FF0000?style=for-the-badge&logo=acunetix&logoColor=white"/>
         <img src="https://custom-icon-badges.demolab.com/badge/-Nessus-7FFF00?style=for-the-badge&logo=nessus&logoColor=black"/>
       </td>
     </tr>
@@ -281,6 +255,11 @@
   <!-- Cloud Security -->
   <h4>Cloud Security</h4>
   <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <img src="https://custom-icon-badges.demolab.com/badge/-AWS%20Prowler-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
