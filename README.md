@@ -385,12 +385,6 @@
     </table>
   </div>
 </div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0:001F3F,50:00B2FF,100:00FF95&height=150&section=footer&text=Let's%20Secure%20The%20Digital%20World&desc=One%20Line%20of%20Code%20at%20a%20Time&fontSize=25&fontColor=FFFFFF&animation=twinkling&fontAlignY=55&descAlignY=85&descSize=15&stroke=00B2FF&strokeWidth=3"/>
-</div>
-
 <!-- Bottom Header -->
 <div align="center">
   <br><br>
