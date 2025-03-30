@@ -50,32 +50,32 @@
 <div align="center">
   <div style="background: linear-gradient(135deg, rgba(26,27,39,0.9), rgba(98,114,164,0.1)); border-radius: 20px; padding: 25px; margin: 20px; border: 1px solid rgba(98,114,164,0.2); box-shadow: 0 0 20px rgba(139,233,253,0.1);">
     <h2 align="center" style="color: #8be9fd;">Professional Roles</h2>
-    <table align="center">
-      <tr>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Ethical%20Hacker-1a1b27?style=for-the-badge&logo=bug-slash&logoColor=50fa7b"/>
-        </td>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Security%20Researcher-1a1b27?style=for-the-badge&logo=search&logoColor=50fa7b"/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Full%20Stack%20Developer-1a1b27?style=for-the-badge&logo=code&logoColor=50fa7b"/>
-        </td>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/-DevOps%20Engineer-1a1b27?style=for-the-badge&logo=server&logoColor=50fa7b"/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Network%20Security-1a1b27?style=for-the-badge&logo=network-wired&logoColor=50fa7b"/>
-        </td>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Security%20Architect-1a1b27?style=for-the-badge&logo=shield&logoColor=50fa7b"/>
-        </td>
-      </tr>
-    </table>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 600px; margin: 0 auto;">
+      <div style="background: rgba(26,27,39,0.8); padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 10px;">
+        <span style="color: #50fa7b;">⚡</span>
+        <span style="color: #f8f8f2;">ETHICAL HACKER</span>
+      </div>
+      <div style="background: rgba(26,27,39,0.8); padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 10px;">
+        <span style="color: #50fa7b;">🔍</span>
+        <span style="color: #f8f8f2;">SECURITY RESEARCHER</span>
+      </div>
+      <div style="background: rgba(26,27,39,0.8); padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 10px;">
+        <span style="color: #50fa7b;">💻</span>
+        <span style="color: #f8f8f2;">FULL STACK DEVELOPER</span>
+      </div>
+      <div style="background: rgba(26,27,39,0.8); padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 10px;">
+        <span style="color: #50fa7b;">🚀</span>
+        <span style="color: #f8f8f2;">DEVOPS ENGINEER</span>
+      </div>
+      <div style="background: rgba(26,27,39,0.8); padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 10px;">
+        <span style="color: #50fa7b;">🌐</span>
+        <span style="color: #f8f8f2;">NETWORK SECURITY</span>
+      </div>
+      <div style="background: rgba(26,27,39,0.8); padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 10px;">
+        <span style="color: #50fa7b;">🛡️</span>
+        <span style="color: #f8f8f2;">SECURITY ARCHITECT</span>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -83,27 +83,28 @@
 <div align="center">
   <div style="background: linear-gradient(135deg, rgba(26,27,39,0.9), rgba(98,114,164,0.1)); border-radius: 20px; padding: 25px; margin: 20px; border: 1px solid rgba(98,114,164,0.2); box-shadow: 0 0 20px rgba(139,233,253,0.1);">
     <h2 align="center" style="color: #8be9fd;">Language Proficiency</h2>
-    <table align="center">
-      <tr>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Bengali-1a1b27?style=for-the-badge&logo=translate&logoColor=50fa7b"/>
-        </td>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/-English-1a1b27?style=for-the-badge&logo=translate&logoColor=50fa7b"/>
-        </td>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Hindi-1a1b27?style=for-the-badge&logo=translate&logoColor=50fa7b"/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Urdu-1a1b27?style=for-the-badge&logo=translate&logoColor=50fa7b"/>
-        </td>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Arabic-1a1b27?style=for-the-badge&logo=translate&logoColor=50fa7b"/>
-        </td>
-      </tr>
-    </table>
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 600px; margin: 0 auto;">
+      <div style="background: rgba(26,27,39,0.8); padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 10px;">
+        <span style="color: #50fa7b;">🌏</span>
+        <span style="color: #f8f8f2;">BENGALI</span>
+      </div>
+      <div style="background: rgba(26,27,39,0.8); padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 10px;">
+        <span style="color: #50fa7b;">🌏</span>
+        <span style="color: #f8f8f2;">ENGLISH</span>
+      </div>
+      <div style="background: rgba(26,27,39,0.8); padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 10px;">
+        <span style="color: #50fa7b;">🌏</span>
+        <span style="color: #f8f8f2;">HINDI</span>
+      </div>
+      <div style="background: rgba(26,27,39,0.8); padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 10px;">
+        <span style="color: #50fa7b;">🌏</span>
+        <span style="color: #f8f8f2;">URDU</span>
+      </div>
+      <div style="background: rgba(26,27,39,0.8); padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 10px;">
+        <span style="color: #50fa7b;">🌏</span>
+        <span style="color: #f8f8f2;">ARABIC</span>
+      </div>
+    </div>
   </div>
 </div>
 
