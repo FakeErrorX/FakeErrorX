@@ -80,29 +80,141 @@
   </h2>
 </div>
 
-<details>
-<summary>🔥 Core Languages</summary>
+<details open>
+<summary>🔥 Programming & Markup Languages</summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,php,cpp,java&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeerrorx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <p>
+    <img src="https://img.shields.io/badge/Python-★★★★★-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/PHP-★★★★☆-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/C++-★★★★☆-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-★★★★☆-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Ruby-★★★★☆-CC342D?style=for-the-badge&logo=ruby&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Go-★★★★☆-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Rust-★★★☆☆-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-★★★★☆-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Shell_Script-★★★★★-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/PowerShell-★★★★☆-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010"/>
+  </p>
 </div>
 </details>
 
-<details>
+<details open>
 <summary>⚡ Frameworks & Technologies</summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,docker,laravel,flutter,django,vue,angular&theme=dark" />
+  <!-- Web Development -->
+  <h4>🌐 Web Development</h4>
+  <p>
+    <img src="https://img.shields.io/badge/React-★★★★★-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Vue.js-★★★★☆-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Angular-★★★★☆-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Next.js-★★★★★-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-★★★★★-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Express.js-★★★★★-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Django-★★★★☆-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Laravel-★★★★★-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010"/>
+  </p>
+
+  <!-- Mobile Development -->
+  <h4>📱 Mobile Development</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-★★★★★-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/React_Native-★★★★☆-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Kotlin-★★★★☆-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Swift-★★★☆☆-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010"/>
+  </p>
 </div>
 </details>
 
-<details>
-<summary>☁️ Cloud & DevOps</summary>
+<details open>
+<summary>☁️ Cloud, DevOps & Security</summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform&theme=dark" />
+  <!-- Cloud Platforms -->
+  <h4>☁️ Cloud Platforms</h4>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-★★★★★-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Azure-★★★★☆-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/GCP-★★★★☆-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010"/>
+  </p>
+
+  <!-- DevOps Tools -->
+  <h4>🛠️ DevOps & Tools</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-★★★★★-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Kubernetes-★★★★☆-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Jenkins-★★★★☆-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Terraform-★★★★☆-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Ansible-★★★★☆-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/GitLab_CI-★★★★☆-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010"/>
+  </p>
+
+  <!-- Security Tools -->
+  <h4>🔒 Security Tools & Frameworks</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Metasploit-★★★★★-E34F26?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Wireshark-★★★★★-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Burp_Suite-★★★★★-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=101010"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Nmap-★★★★★-009933?style=for-the-badge&logo=nmap&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/OWASP-★★★★★-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Kali_Linux-★★★★★-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=101010"/>
+  </p>
+</div>
+</details>
+
+<details open>
+<summary>📊 Databases & Analytics</summary>
+<br>
+<div align="center">
+  <!-- Databases -->
+  <h4>💾 Databases</h4>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-★★★★★-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-★★★★★-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/MySQL-★★★★★-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Redis-★★★★☆-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Elasticsearch-★★★★☆-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/GraphQL-★★★★☆-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=101010"/>
+  </p>
+
+  <!-- Analytics & Monitoring -->
+  <h4>📈 Analytics & Monitoring</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Grafana-★★★★★-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Prometheus-★★★★☆-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/ELK_Stack-★★★★☆-005571?style=for-the-badge&logo=elastic-stack&logoColor=white&labelColor=101010"/>
+  </p>
+</div>
+</details>
+
+<!-- Certifications Section -->
+<details open>
+<summary>🏆 Certifications & Achievements</summary>
+<br>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-00B167?style=for-the-badge&logo=acclaim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OSCP-Offensive_Security-FF0000?style=for-the-badge&logo=acclaim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/CISSP-Certified_Information_Systems_Security_Professional-0052CC?style=for-the-badge&logo=acclaim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CompTIA-Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
+  </p>
 </div>
 </details>
 
