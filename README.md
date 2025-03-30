@@ -1,43 +1,43 @@
 <!-- Header Section -->
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:00b300&height=200&section=header&text=ErrorX&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Expert%20%26%20Full-Stack%20Developer&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:00b300&height=250&section=header&text=ErrorX&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Expert%20%26%20Full-Stack%20Developer&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Securing+the+Digital+Frontier;Crafting+Innovative+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Securing+the+Digital+Frontier;Crafting+Innovative+Solutions)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/fakeerrorx">
-    <img src="https://img.shields.io/badge/Focus-Cyber_Security-brightgreen?style=for-the-badge&logo=shield&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/Focus-Cyber_Security-brightgreen?style=flat-square&logo=shield&logoColor=white&labelColor=black" />
   </a>
   <a href="https://www.google.com/maps/place/Bangladesh">
-    <img src="https://img.shields.io/badge/Location-Bangladesh-success?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/Location-Bangladesh-success?style=flat-square&logo=google-maps&logoColor=white&labelColor=black" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Languages-English_&_Bengali-brightgreen?style=for-the-badge&logo=languages&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/Languages-English_&_Bengali-brightgreen?style=flat-square&logo=languages&logoColor=white&labelColor=black" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </div>
 
 <!-- Social Badges -->
 <div align="center">
   <a href="https://twitter.com/fakeerrorx">
-    <img src="https://img.shields.io/twitter/follow/fakeerrorx?logo=twitter&style=for-the-badge&color=00ff00&labelColor=black&label=Twitter" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/fakeerrorx?logo=twitter&style=flat-square&color=00ff00&labelColor=black&label=Twitter" alt="Twitter" />
   </a>
   <a href="https://github.com/fakeerrorx">
-    <img src="https://img.shields.io/github/followers/fakeerrorx?logo=github&style=for-the-badge&color=00ff00&labelColor=black&label=GitHub" alt="GitHub" />
+    <img src="https://img.shields.io/github/followers/fakeerrorx?logo=github&style=flat-square&color=00ff00&labelColor=black&label=GitHub" alt="GitHub" />
   </a>
   <a href="https://www.youtube.com/c/fakeerrorx">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCX6OQ3DkcsbYNE6H8uQQuVA?style=for-the-badge&logo=youtube&label=YouTube&color=00ff00&labelColor=black" alt="YouTube" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCX6OQ3DkcsbYNE6H8uQQuVA?style=flat-square&logo=youtube&label=YouTube&color=00ff00&labelColor=black" alt="YouTube" />
   </a>
 </div>
 
 </div>
 
 <!-- Animated Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header&text=Welcome%20to%20my%20Digital%20Realm&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:00b300&height=150&section=header&text=Welcome%20to%20my%20Digital%20Realm&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> About Me
 
