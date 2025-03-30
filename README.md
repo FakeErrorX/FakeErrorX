@@ -115,17 +115,21 @@
   
   <div style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
     <div>
-      <!-- GitHub Stats Card -->
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fakeerrorx&show_icons=true&count_private=true&hide_border=true&title_color=00FF95&icon_color=00B2FF&text_color=FFFFFF&bg_color=0D1117&ring_color=00B2FF&show_owner=true" alt="ErrorX github stats" />
-      <!-- Most Used Languages -->
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeerrorx&layout=compact&hide_border=true&title_color=00FF95&text_color=FFFFFF&bg_color=0D1117" />
     </div>
-    
-    <!-- GitHub Streak Stats -->
-    <img width="100%" src="https://streak-stats.demolab.com?user=fakeerrorx&theme=dark&hide_border=true&background=0D1117&stroke=00B2FF&ring=00FF95&fire=00B2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF95&dates=00B2FF" />
-    
-    <!-- Activity Graph -->
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fakeerrorx&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00B2FF&line=00FF95&point=00B2FF"/>
+  </div>
+
+  <br>
+
+  <div style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
+    <img src="https://streak-stats.demolab.com?user=fakeerrorx&theme=dark&hide_border=true&background=0D1117&stroke=00B2FF&ring=00FF95&fire=00B2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF95&dates=00B2FF" />
+  </div>
+
+  <br>
+
+  <div style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakeerrorx&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00B2FF&line=00FF95&point=00B2FF" />
   </div>
 </div>
 
