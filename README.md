@@ -82,7 +82,7 @@ I'm a passionate Cybersecurity Expert and Full-Stack Developer from Bangladesh, 
     <td width="33%" align="center">
       <img width="100" height="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" />
       <h3>🚀 DevOps & Cloud</h3>
-      <p align="left">
+<p align="left">
         ◆ Container Orchestration<br>
         ◆ CI/CD Pipelines<br>
         ◆ Infrastructure as Code<br>
@@ -100,159 +100,99 @@ I'm a passionate Cybersecurity Expert and Full-Stack Developer from Bangladesh, 
 
 <div align="center">
 
-### 🔒 Security Tools & Technologies
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Metasploit-E34F26?style=flat-square&logo=metasploit&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=flat-square&logo=burp-suite&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/IDA_Pro-4B275F?style=flat-square&logo=ida&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ghidra-FF6B6B?style=flat-square&logo=ghidra&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Snort-00599C?style=flat-square&logo=snort&logoColor=white&color=black" /></a>
-</p>
+<details open>
+<summary><h3>🔒 Security Tools & Technologies</h3></summary>
+<div align="center">
 
-### 💻 Programming Languages
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&color=black" /></a>
-</p>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&labelColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=black)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B275F?style=for-the-badge&logo=ida&logoColor=white&labelColor=black)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF6B6B?style=for-the-badge&logo=ghidra&logoColor=white&labelColor=black)
+![Snort](https://img.shields.io/badge/Snort-00599C?style=for-the-badge&logo=snort&logoColor=white&labelColor=black)
 
-### 🎨 Frontend Development
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&color=black" /></a>
-</p>
+</div>
+</details>
 
-### ⚙️ Backend Development
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&color=black" /></a>
-</p>
+<details>
+<summary><h3>💻 Programming Languages</h3></summary>
+<div align="center">
 
-### 🛢️ Databases & Storage
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white&color=black" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=black)
 
-### 🌐 Cloud & DevOps
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&color=black" /></a>
-</p>
+</div>
+</details>
 
-### 🔧 Development Tools
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&color=black" /></a>
-</p>
+<details>
+<summary><h3>🎨 Frontend Development</h3></summary>
+<div align="center">
 
-### 🔐 Security & Testing
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white&color=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white&color=black" /></a>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black)
+
+</div>
+</details>
 
 </div>
 
 ## 🏆 Certifications & Achievements
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2TnThYWVOLe/giphy.gif"/>
-        <br>CEH
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif"/>
-        <br>OSCP
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy.gif"/>
-        <br>CISSP
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuDgW7dXQfCZiWVXCJ/giphy.gif"/>
-        <br>AWS Security
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7f5ZGjvKXBaLbBigO/giphy.gif"/>
-        <br>GSEC
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2TnThYWVOLe/giphy.gif"/>
-        <br>GPEN
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuDgW7dXQfCZiWVXCJ/giphy.gif"/>
-        <br>Security+
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy.gif"/>
-        <br>Network+
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif"/>
-        <br>Azure Security
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7f5ZGjvKXBaLbBigO/giphy.gif"/>
-        <br>GCP Security
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2TnThYWVOLe/giphy.gif"/>
-        <br>CISM
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuDgW7dXQfCZiWVXCJ/giphy.gif"/>
-        <br>CCSP
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy.gif"/>
-        <br>eWPT
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif"/>
-        <br>eCPPT
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7f5ZGjvKXBaLbBigO/giphy.gif"/>
-        <br>CRTP
-      </td>
-      <td align="center">
-        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2TnThYWVOLe/giphy.gif"/>
-        <br>CRTE
-      </td>
-    </tr>
-  </table>
+<table border="0">
+<tr>
+<td align="center" width="25%">
+<div style="background: linear-gradient(45deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,255,0,0.1);">
+<h3>🎯 Offensive Security</h3>
+<img width="60" src="https://media.giphy.com/media/3oKIPic2TnThYWVOLe/giphy.gif"/>
+<br><br>
+<span style="color: #00ff00; font-weight: bold;">OSCP</span><br>
+<span style="color: #00ff00; font-weight: bold;">CEH</span><br>
+<span style="color: #00ff00; font-weight: bold;">eCPPT</span>
+</div>
+</td>
+<td align="center" width="25%">
+<div style="background: linear-gradient(45deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,255,0,0.1);">
+<h3>☁️ Cloud Security</h3>
+<img width="60" src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXCJ/giphy.gif"/>
+<br><br>
+<span style="color: #00ff00; font-weight: bold;">AWS Security</span><br>
+<span style="color: #00ff00; font-weight: bold;">Azure Security</span><br>
+<span style="color: #00ff00; font-weight: bold;">GCP Security</span>
+</div>
+</td>
+<td align="center" width="25%">
+<div style="background: linear-gradient(45deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,255,0,0.1);">
+<h3>👔 Professional</h3>
+<img width="60" src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif"/>
+<br><br>
+<span style="color: #00ff00; font-weight: bold;">CISSP</span><br>
+<span style="color: #00ff00; font-weight: bold;">CISM</span><br>
+<span style="color: #00ff00; font-weight: bold;">CCSP</span>
+</div>
+</td>
+<td align="center" width="25%">
+<div style="background: linear-gradient(45deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,255,0,0.1);">
+<h3>⚙️ Technical</h3>
+<img width="60" src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif"/>
+<br><br>
+<span style="color: #00ff00; font-weight: bold;">Security+</span><br>
+<span style="color: #00ff00; font-weight: bold;">Network+</span><br>
+<span style="color: #00ff00; font-weight: bold;">GSEC</span>
+</div>
+</td>
+</tr>
+</table>
 </div>
 
 ## 📊 GitHub Statistics
