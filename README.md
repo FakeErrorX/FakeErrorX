@@ -102,50 +102,64 @@ mindmap
 <summary><h2>🏆 Achievements & Certifications</h2></summary>
 
 <div align="center">
+  <div>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Certificate.png" alt="Certificate" width="25" height="25" /> 
+    <b>Professional Certifications</b>
+  </div>
 
-<table>
-<tr>
-<td>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30px"/>
+        <br><strong>Security</strong>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" width="30px"/>
+        <br><strong>Cloud</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-brightgreen?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+          <br/>
+          <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=compTIA&logoColor=white"/>
+          <br/>
+          <img src="https://img.shields.io/badge/Cisco-CCNP_Security-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+          <br/>
+          <img src="https://img.shields.io/badge/Azure-Solutions_Architect-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+          <br/>
+          <img src="https://img.shields.io/badge/GCP-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 
-```typescript
-// Professional Certifications
-export const certifications = {
-  security: [
-    "Certified Ethical Hacker (CEH)",
-    "CompTIA Security+",
-    "CCNP Security"
-  ],
-  cloud: [
-    "AWS Solutions Architect",
-    "Azure Solutions Architect",
-    "GCP Professional Cloud Architect"
-  ]
-};
-```
+  <br/>
 
-</td>
-<td>
+  <div>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> 
+    <b>Notable Achievements</b>
+  </div>
 
-```typescript
-// Notable Achievements
-export const achievements = {
-  security: [
-    "Bug Bounty Hall of Fame",
-    "CTF Competition Champion",
-    "Security Research Excellence"
-  ],
-  development: [
-    "DevOps Innovation Award",
-    "Open Source Contributor",
-    "Tech Conference Speaker"
-  ]
-};
-```
-
-</td>
-</tr>
-</table>
-
+  <div align="center">
+    <div style="display: inline-block; margin: 10px;">
+      <img src="https://img.shields.io/badge/🔍_Bug_Bounty-Hall_of_Fame-gold?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/🏆_CTF-Competition_Champion-purple?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/📊_Security-Research_Excellence-teal?style=for-the-badge"/>
+    </div>
+    <br/>
+    <div style="display: inline-block; margin: 10px;">
+      <img src="https://img.shields.io/badge/🚀_DevOps-Innovation_Award-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/🌟_Open_Source-Contributor-green?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/🎤_Tech-Conference_Speaker-orange?style=for-the-badge"/>
+    </div>
+  </div>
 </div>
 </details>
 
