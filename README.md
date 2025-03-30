@@ -152,7 +152,7 @@
 <div align="center" style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
   <!-- Programming Languages -->
   <h3>Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,php,ruby,go,rust,kotlin,swift,c,cs,scala&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,php,ruby,go,rust,kotlin,swift,c,cs,scala,perl,r,dart,lua,haskell,elixir&theme=dark&perline=10" />
   
   <!-- Frontend Development -->
   <h3>Frontend Development</h3>
@@ -160,7 +160,7 @@
   
   <!-- Backend Development -->
   <h3>Backend Development</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,rails,dotnet,graphql,apollo&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,rails,dotnet,graphql,apollo,nestjs,deno,actix,rocket,gin,fiber,echo,quarkus,micronaut&theme=dark&perline=10" />
   
   <!-- Database Technologies -->
   <h3>Database Technologies</h3>
@@ -168,11 +168,11 @@
   
   <!-- DevOps & Cloud -->
   <h3>DevOps & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,github,bitbucket,terraform,ansible,prometheus,grafana&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,github,bitbucket,terraform,ansible,prometheus,grafana,heroku,vercel,netlify,cloudflare,nginx,traefik,pulumi&theme=dark&perline=10" />
   
   <!-- Security Tools -->
   <h3>Security Arsenal</h3>
-  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim,nginx,git&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim,nginx,git,kali,burpsuite,wireshark,metasploit,nmap,ghidra,ida,radare2,volatility,snort,suricata,splunk,elk,openvas&theme=dark&perline=10" />
 </div>
 
 <!-- Certifications -->
@@ -200,6 +200,39 @@
         </td>
         <td align="center">
           <img src="https://custom-icon-badges.demolab.com/badge/-GCP%20Security-0D1117?style=for-the-badge&logo=certificate&logoColor=00FF95"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-OSCE-0D1117?style=for-the-badge&logo=certificate&logoColor=00FF95"/>
+        </td>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-OSWE-0D1117?style=for-the-badge&logo=certificate&logoColor=00FF95"/>
+        </td>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-OSEE-0D1117?style=for-the-badge&logo=certificate&logoColor=00FF95"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-CCNA%20Security-0D1117?style=for-the-badge&logo=certificate&logoColor=00FF95"/>
+        </td>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-CompTIA%20Security+-0D1117?style=for-the-badge&logo=certificate&logoColor=00FF95"/>
+        </td>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-eJPT-0D1117?style=for-the-badge&logo=certificate&logoColor=00FF95"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-CREST%20CRT-0D1117?style=for-the-badge&logo=certificate&logoColor=00FF95"/>
+        </td>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-GPEN-0D1117?style=for-the-badge&logo=certificate&logoColor=00FF95"/>
+        </td>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-GXPN-0D1117?style=for-the-badge&logo=certificate&logoColor=00FF95"/>
         </td>
       </tr>
     </table>
