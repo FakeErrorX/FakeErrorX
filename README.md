@@ -362,25 +362,27 @@
   <h2>Let's Connect & Collaborate</h2>
   
   <div style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
-    <a href="https://twitter.com/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=00FF95"/>
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=00FF95"/>
-    </a>
-    &nbsp;
-    <a href="https://instagram.com/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF95"/>
-    </a>
-    &nbsp;
-    <a href="https://facebook.com/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF95"/>
-    </a>
-    &nbsp;
-    <a href="https://youtube.com/c/fakeerrorx" target="_blank">
-      <img src="https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF95"/>
-    </a>
+    <table align="center">
+      <tr>
+        <td align="center">
+          <a href="https://twitter.com/fakeerrorx" target="_blank">
+            <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+          </a>
+          <a href="https://linkedin.com/in/fakeerrorx" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+          </a>
+          <a href="https://instagram.com/fakeerrorx" target="_blank">
+            <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+          </a>
+          <a href="https://discord.com/users/fakeerrorx" target="_blank">
+            <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+          </a>
+          <a href="https://github.com/fakeerrorx" target="_blank">
+            <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+          </a>
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
 
