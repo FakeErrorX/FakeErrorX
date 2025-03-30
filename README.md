@@ -177,9 +177,7 @@
 <!-- Holographic Profile Trophy -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35">
     GitHub Profile Trophy
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35">
   </h2>
   <div style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
     <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15"/>
