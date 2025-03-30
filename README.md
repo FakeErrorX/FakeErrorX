@@ -110,6 +110,10 @@ I'm a passionate Cybersecurity Expert and Full-Stack Developer from Bangladesh, 
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-F15A24?style=for-the-badge&logo=owasp&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-FF6B6B?style=for-the-badge&logo=john&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-4B275F?style=for-the-badge&logo=autopsy&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logo=volatility&logoColor=white)
+![SecurityOnion](https://img.shields.io/badge/Security_Onion-FF6B6B?style=for-the-badge&logo=security-onion&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EE0000?style=for-the-badge&logo=suricata&logoColor=white)
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -131,6 +135,11 @@ I'm a passionate Cybersecurity Expert and Full-Stack Developer from Bangladesh, 
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assembly&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Crystal](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)
+![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -151,6 +160,11 @@ I'm a passionate Cybersecurity Expert and Full-Stack Developer from Bangladesh, 
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![Qwik](https://img.shields.io/badge/Qwik-FF1E1E?style=for-the-badge&logo=qwik&logoColor=white)
+![Preact](https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white)
+![Lit](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
+![Stencil](https://img.shields.io/badge/Stencil-3880FF?style=for-the-badge&logo=stencil&logoColor=white)
+![Web Components](https://img.shields.io/badge/Web_Components-29ABE2?style=for-the-badge&logo=webcomponents.org&logoColor=white)
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -226,6 +240,60 @@ I'm a passionate Cybersecurity Expert and Full-Stack Developer from Bangladesh, 
       <td align="center">
         <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuDgW7dXQfCZiWVXCJ/giphy.gif"/>
         <br>AWS Security
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7f5ZGjvKXBaLbBigO/giphy.gif"/>
+        <br>GSEC
+      </td>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2TnThYWVOLe/giphy.gif"/>
+        <br>GPEN
+      </td>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuDgW7dXQfCZiWVXCJ/giphy.gif"/>
+        <br>Security+
+      </td>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy.gif"/>
+        <br>Network+
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif"/>
+        <br>Azure Security
+      </td>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7f5ZGjvKXBaLbBigO/giphy.gif"/>
+        <br>GCP Security
+      </td>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2TnThYWVOLe/giphy.gif"/>
+        <br>CISM
+      </td>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuDgW7dXQfCZiWVXCJ/giphy.gif"/>
+        <br>CCSP
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy.gif"/>
+        <br>eWPT
+      </td>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif"/>
+        <br>eCPPT
+      </td>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7f5ZGjvKXBaLbBigO/giphy.gif"/>
+        <br>CRTP
+      </td>
+      <td align="center">
+        <img width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y2Nwd2t6ZXIyM2F4ZnBxbXd0YmRxaWx0NHJ5YnBxbDdqOWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2TnThYWVOLe/giphy.gif"/>
+        <br>CRTE
       </td>
     </tr>
   </table>
