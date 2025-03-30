@@ -193,3 +193,165 @@ const ErrorX = {
 <div align="center">
   <img src="https://profile-counter.glitch.me/fakeerrorx/count.svg" />
 </div>
+
+<!-- Spotify Now Playing -->
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=fakeerrorx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+</div>
+
+<!-- Coding Activity -->
+<h2>⚡ Recent Coding Activity</h2>
+
+<!--START_SECTION:waka-->
+```text
+Python       █████████▓░░░░░░░░░░░░░░░   38.95 % 
+JavaScript   ████████▒░░░░░░░░░░░░░░░░   33.28 % 
+TypeScript   ███▓░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Java         ██▒░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Other        ▒░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+```
+<!--END_SECTION:waka-->
+
+<!-- Certifications -->
+<h2>🏆 Professional Certifications</h2>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-brightgreen?style=for-the-badge&logo=acclaim&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OSCP-Offensive_Security-red?style=for-the-badge&logo=acclaim&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-Solutions_Architect-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CISSP-Certified_Information_Systems_Security_Professional-blue?style=for-the-badge&logo=acclaim&logoColor=white" /></a>
+</div>
+
+<!-- Additional Skills -->
+<details open>
+<summary><b>Mobile Development</b></summary>
+<br/>
+<div align="center">
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Testing & QA</b></summary>
+<br/>
+<div align="center">
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Game Development</b></summary>
+<br/>
+<div align="center">
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>AI & Machine Learning</b></summary>
+<br/>
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+</details>
+
+<!-- Projects Section -->
+<h2>🚀 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/FakeErrorX/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakeerrorx&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/FakeErrorX/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakeerrorx&repo=project2&theme=radical" />
+  </a>
+</div>
+
+<!-- Security Research -->
+<h2>🔍 Security Research & CTF Achievements</h2>
+
+- 🏆 **HackTheBox**: Ranked in Top 100 globally
+- 🥇 **Bug Bounty**: Hall of Fame on multiple platforms
+- 🎯 **CTF Competitions**: Winner of numerous international competitions
+- 📝 **Research Papers**: Published multiple papers on cybersecurity
+- 🛡️ **Security Tools**: Developer of custom security assessment tools
+
+<!-- Blog Posts -->
+<h2>📝 Latest Blog Posts</h2>
+
+<!-- BLOG-POST-LIST:START -->
+- [Advanced Web Application Security Testing](https://errorx.me/blog1)
+- [Zero-Day Vulnerability Research Methodology](https://errorx.me/blog2)
+- [Cloud Security Best Practices](https://errorx.me/blog3)
+- [Ethical Hacking: A Complete Guide](https://errorx.me/blog4)
+<!-- BLOG-POST-LIST:END -->
+
+<!-- Support -->
+<h2>💖 Support My Work</h2>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/fakeerrorx">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://www.patreon.com/fakeerrorx">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+  </a>
+</div>
+
+<!-- Code Time Stats -->
+<h2>⏱️ Coding Time Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fakeerrorx&layout=compact&theme=radical" />
+</div>
+
+<!-- Achievements Wall -->
+<h2>🏆 Achievement Wall</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=radical&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
+
+<!-- Technologies Currently Learning -->
+<h2>📚 Currently Learning</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</div>
+
+<!-- Workspace Setup -->
+<h2>💻 Workspace Setup</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AMD_Ryzen_9_5950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_RTX_3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/64GB_RAM-000000?style=for-the-badge&logo=memory&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu_22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</div>
