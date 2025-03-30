@@ -1,144 +1,146 @@
 # <div align="center">![ErrorX](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+ErrorX's+Terminal;%24+Initializing+System...;%24+Access+Granted+✓)</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ErrorX&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Security%20Researcher&descAlignY=52&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27,116,175&height=350&section=header&text=ErrorX&desc=Cyber%20Security%20Expert%20%7C%20Full%20Stack%20Developer&animation=fadeIn&fontColor=fff&fontSize=90&rotate=13&fontAlignY=25&descAlignY=45&descAlign=60" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6000&center=true&vCenter=true&width=435&lines=Securing+the+Digital+Frontier;Building+Robust+Applications;Exploring+New+Technologies;Innovating+Security+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&pause=1000&color=27C4F5&center=true&vCenter=true&width=600&height=100&lines=SECURITY+RESEARCHER;FULL+STACK+DEVELOPER;PENETRATION+TESTER;DEVOPS+ENGINEER" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/fakeerrorx">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=1D2226&color=27C4F5&suffix=+Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfakeerrorx&longCache=true" alt="GitHub Followers" height="25"/>
+  </a>
+  <a href="https://twitter.com/fakeerrorx">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=twitter&label=Twitter&labelColor=1D2226&color=27C4F5&suffix=+Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dfakeerrorx&longCache=true" alt="Twitter Followers" height="25"/>
+  </a>
+  <a href="https://www.youtube.com/@fakeerrorx">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=youtube&label=YouTube&labelColor=1D2226&color=27C4F5&suffix=+Subscribers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dyoutube%26queryKey%3Dfakeerrorx&longCache=true" alt="YouTube Subscribers" height="25"/>
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fakeerrorx&style=for-the-badge&color=FF6000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/fakeerrorx?style=for-the-badge&color=FF6000" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/fakeerrorx?style=for-the-badge&color=FF6000" alt="Stars" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
 
-## 🚀 About Me
-
-```javascript
-const ErrorX = {
-    role: "Full Stack Developer & Security Researcher",
-    location: "Bangladesh",
-    expertise: {
-        security: ["Penetration Testing", "Malware Analysis", "Threat Hunting"],
-        development: ["Web", "Mobile", "Cloud", "DevSecOps"],
-        research: ["Zero-Day", "Vulnerability Assessment", "Security Architecture"]
-    },
-    currentFocus: "Building Secure & Scalable Applications",
-    funFact: "I break things to make them more secure! 🔐"
-};
-```
-
-<br/>
-
-## 📊 GitHub Analytics
+<h2 align="center">⚡ Technical Expertise</h2>
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=fakeerrorx&cc=000&tc=FF6000&ic=fff&bc=0000" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fakeerrorx&theme=dark&hide_border=true&ring=FF6000&fire=FF6000&currStreakNum=FF6000&currStreakLabel=FF6000" width="49%" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,rust,react,vue,next,nodejs,docker,kubernetes,aws,azure,linux&theme=dark&perline=7" />
 </div>
 
 <br/>
 
-## 💻 Tech Arsenal
-
-<details>
-<summary><b>🛡️ Security Expertise</b></summary>
-<br/>
-
 <div align="center">
-  
-| Offensive Security | Defensive Security |
-|-------------------|-------------------|
-| ![Web Security](https://img.shields.io/badge/Web_Security-FF6000?style=for-the-badge&logo=hackaday&logoColor=white) | ![SIEM](https://img.shields.io/badge/SIEM-FF6000?style=for-the-badge&logo=shield&logoColor=white) |
-| ![Mobile Security](https://img.shields.io/badge/Mobile_Security-FF6000?style=for-the-badge&logo=android&logoColor=white) | ![Threat Intel](https://img.shields.io/badge/Threat_Intel-FF6000?style=for-the-badge&logo=shieldsdotio&logoColor=white) |
-| ![Network Security](https://img.shields.io/badge/Network_Security-FF6000?style=for-the-badge&logo=cisco&logoColor=white) | ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-FF6000?style=for-the-badge&logo=virustotal&logoColor=white) |
-| ![Cloud Security](https://img.shields.io/badge/Cloud_Security-FF6000?style=for-the-badge&logo=amazonaws&logoColor=white) | ![Incident Response](https://img.shields.io/badge/Incident_Response-FF6000?style=for-the-badge&logo=openbugbounty&logoColor=white) |
-
-</div>
-</details>
-
-<details>
-<summary><b>🌐 Development Stack</b></summary>
-<br/>
-
-<div align="center">
-
-| Frontend | Backend | DevOps |
-|----------|---------|--------|
-| ![React](https://img.shields.io/badge/React-FF6000?style=for-the-badge&logo=react&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-FF6000?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-FF6000?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/Next.js-FF6000?style=for-the-badge&logo=next.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-FF6000?style=for-the-badge&logo=python&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-FF6000?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-FF6000?style=for-the-badge&logo=vue.js&logoColor=white) | ![Go](https://img.shields.io/badge/Go-FF6000?style=for-the-badge&logo=go&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF6000?style=for-the-badge&logo=amazonaws&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-FF6000?style=for-the-badge&logo=typescript&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-FF6000?style=for-the-badge&logo=rust&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-FF6000?style=for-the-badge&logo=microsoftazure&logoColor=white) |
-
-</div>
-</details>
-
-<br/>
-
-## 🏆 Achievements & Impact
-
-<div align="center">
-
-| Category | Metrics | Impact |
-|----------|---------|--------|
-| 🎯 Bug Bounties | P1: 20 \| P2: 45 \| P3: 75 | $300K+ Rewards |
-| 🔒 Security Audits | 150+ Projects | Critical Vulnerabilities Identified |
-| 📚 Research | 15+ Publications | Industry-Standard Contributions |
-| 👨‍🏫 Training | 12K+ Students | Future Security Leaders |
-
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=fakeerrorx&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=27C4F5&title_color=27C4F5&text_color=FFFFFF" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=fakeerrorx&theme=tokyonight&hide_border=true&background=00000000&stroke=27C4F5&ring=27C4F5&fire=1786FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=27C4F5&sideLabels=27C4F5&dates=FFFFFF" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
-
-## 🌟 Featured Projects
+<h2 align="center">🛡️ Security Arsenal</h2>
 
 <div align="center">
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fakeerrorx&repo=project1&theme=dark&title_color=FF6000&icon_color=FF6000&text_color=FFFFFF&bg_color=000000)](https://github.com/fakeerrorx/project1)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fakeerrorx&repo=project2&theme=dark&title_color=FF6000&icon_color=FF6000&text_color=FFFFFF&bg_color=000000)](https://github.com/fakeerrorx/project2)
-
+  <table>
+    <tr>
+      <td>
+        <h3 align="center">Offensive Security</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Web_Exploitation-1786FF?style=for-the-badge&logo=hackaday&logoColor=white" />
+          <img src="https://img.shields.io/badge/Mobile_Security-1786FF?style=for-the-badge&logo=android&logoColor=white" />
+          <img src="https://img.shields.io/badge/Network_Security-1786FF?style=for-the-badge&logo=cisco&logoColor=white" />
+          <img src="https://img.shields.io/badge/Cloud_Security-1786FF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+          <img src="https://img.shields.io/badge/Zero_Day_Research-1786FF?style=for-the-badge&logo=hackaday&logoColor=white" />
+        </div>
+      </td>
+      <td>
+        <h3 align="center">Defensive Security</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Threat_Detection-27C4F5?style=for-the-badge&logo=shield&logoColor=white" />
+          <img src="https://img.shields.io/badge/Malware_Analysis-27C4F5?style=for-the-badge&logo=virustotal&logoColor=white" />
+          <img src="https://img.shields.io/badge/Incident_Response-27C4F5?style=for-the-badge&logo=openbugbounty&logoColor=white" />
+          <img src="https://img.shields.io/badge/Digital_Forensics-27C4F5?style=for-the-badge&logo=forensics&logoColor=white" />
+          <img src="https://img.shields.io/badge/Zero_Trust-27C4F5?style=for-the-badge&logo=security&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
-
-## 📈 Coding Metrics
+<h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeerrorx&layout=compact&theme=dark&title_color=FF6000&text_color=FFFFFF&bg_color=000000&hide_border=true" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fakeerrorx&theme=dark&utcOffset=8" width="49%" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Bug_Bounties-$300K+-27C4F5?style=for-the-badge&logo=hackerone&logoColor=white" />
+        <br/>
+        <sup>P1: 20 | P2: 45 | P3: 75</sup>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Security_Audits-150+-27C4F5?style=for-the-badge&logo=security&logoColor=white" />
+        <br/>
+        <sup>Critical Vulnerabilities Found</sup>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CTF_Ranking-Global_Top_100-27C4F5?style=for-the-badge&logo=hackthebox&logoColor=white" />
+        <br/>
+        <sup>50+ Competitions Won</sup>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
-
-## 🔗 Connect With Me
+<h2 align="center">📊 Activity</h2>
 
 <div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=FF6000)](https://twitter.com/fakeerrorx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=FF6000)](https://linkedin.com/in/fakeerrorx)
-[![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=ghost&logoColor=FF6000)](https://errorx.me)
-[![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=FF6000)](https://youtube.com/@fakeerrorx)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakeerrorx&custom_title=Contribution%20Graph&bg_color=0D1117&color=27C4F5&line=1786FF&point=27C4F5&area_color=27C4F5&area=true&hide_border=true" width="95%" />
 </div>
 
 <br/>
 
-## 📊 Activity Graph
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
+
+<h2 align="center">🔗 Connect</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakeerrorx&custom_title=ErrorX's%20Contribution%20Graph&bg_color=000000&color=FF6000&line=FF6000&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <a href="https://twitter.com/fakeerrorx">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=27C4F5" />
+  </a>
+  <a href="https://linkedin.com/in/fakeerrorx">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=27C4F5" />
+  </a>
+  <a href="https://errorx.me">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=27C4F5" />
+  </a>
+  <a href="https://youtube.com/@fakeerrorx">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=27C4F5" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&section=footer&color=gradient&customColorList=27,116,175" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=FF6000&center=true&vCenter=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+ErrorX;Building+a+Secure+Digital+Future" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=27C4F5&center=true&vCenter=true&width=500&lines=Building+the+Future+of+Cybersecurity+%F0%9F%94%92;Connect+with+me+for+Collaborations+%F0%9F%A4%9D" alt="Footer Typing SVG" />
 </div>
