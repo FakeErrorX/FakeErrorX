@@ -152,27 +152,63 @@
 <div align="center" style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
   <!-- Programming Languages -->
   <h3>Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,php,ruby,go,rust,kotlin,swift,c,cs,scala,perl,r,dart,lua,haskell,elixir&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,php,ruby,go,rust,kotlin,swift,c,cs,scala,perl,r,dart,lua,haskell,elixir,julia,fortran,cobol,erlang,clojure&theme=dark&perline=10" />
   
   <!-- Frontend Development -->
   <h3>Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,vue,angular,svelte,nextjs,nuxtjs,gatsby,redux,tailwind,bootstrap,materialui&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,react,vue,angular,svelte,nextjs,nuxtjs,gatsby,redux,tailwind,bootstrap,materialui,jquery,threejs,d3,electron,webpack,vite,astro,storybook,figma,xd&theme=dark&perline=8" />
   
   <!-- Backend Development -->
   <h3>Backend Development</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,rails,dotnet,graphql,apollo,nestjs,deno,actix,rocket,gin,fiber,echo,quarkus,micronaut&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,rails,dotnet,graphql,apollo,nestjs,deno,actix,rocket,gin,fiber,echo,quarkus,micronaut,adonisjs,strapi,prisma,sequelize,hibernate&theme=dark&perline=10" />
   
   <!-- Database Technologies -->
   <h3>Database Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite,cassandra,dynamodb&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite,cassandra,dynamodb,mariadb,oracle,elasticsearch,neo4j,couchdb,influxdb,cockroachdb,supabase,firebase&theme=dark&perline=8" />
   
   <!-- DevOps & Cloud -->
   <h3>DevOps & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,github,bitbucket,terraform,ansible,prometheus,grafana,heroku,vercel,netlify,cloudflare,nginx,traefik,pulumi&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,github,bitbucket,terraform,ansible,prometheus,grafana,heroku,vercel,netlify,cloudflare,nginx,traefik,pulumi,digitalocean,openshift,rancher,harbor,argocd,flux,helm&theme=dark&perline=9" />
   
   <!-- Security Tools -->
   <h3>Security Arsenal</h3>
-  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim,nginx,git,kali,burpsuite,wireshark,metasploit,nmap,ghidra,ida,radare2,volatility,snort,suricata,splunk,elk,openvas&theme=dark&perline=10" />
+  <div style="margin-bottom: 20px;">
+    <!-- Penetration Testing -->
+    <h4>Penetration Testing</h4>
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim,nginx,git,kali,burpsuite,wireshark,metasploit,nmap,ghidra,ida,radare2&theme=dark&perline=7" />
+    
+    <!-- Defensive Security -->
+    <h4>Defensive Security</h4>
+    <img src="https://skillicons.dev/icons?i=volatility,snort,suricata,splunk,elk,openvas,wazuh,ossec,yara,cuckoo,zeek,graylog&theme=dark&perline=6" />
+    
+    <!-- Application Security -->
+    <h4>Application Security</h4>
+    <img src="https://skillicons.dev/icons?i=owasp,zap,acunetix,nessus,nexpose,checkmarx,fortify,veracode,sonarqube&theme=dark&perline=6" />
+    
+    <!-- Forensics & Malware Analysis -->
+    <h4>Forensics & Malware Analysis</h4>
+    <img src="https://skillicons.dev/icons?i=autopsy,volatility,rekall,sleuthkit,immunity,ollydbg,x64dbg,pestudio&theme=dark&perline=6" />
+    
+    <!-- Cloud Security -->
+    <h4>Cloud Security</h4>
+    <img src="https://skillicons.dev/icons?i=cloudsploit,prowler,scout,falco,trivy,aqua,prismacloud,cloudcustodian&theme=dark&perline=6" />
+  </div>
+  
+  <!-- Mobile Development -->
+  <h3>Mobile Development</h3>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,flutter,react,ionic,xamarin,capacitor&theme=dark&perline=8" />
+  
+  <!-- Game Development -->
+  <h3>Game Development</h3>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,threejs,blender,maya&theme=dark&perline=6" />
+  
+  <!-- AI/ML & Data Science -->
+  <h3>AI/ML & Data Science</h3>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,scikitlearn,opencv,pandas,numpy,jupyter&theme=dark&perline=6" />
+  
+  <!-- IoT & Embedded -->
+  <h3>IoT & Embedded</h3>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,rust,embedded&theme=dark&perline=6" />
 </div>
 
 <!-- Certifications -->
