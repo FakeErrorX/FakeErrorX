@@ -1,113 +1,135 @@
-<!-- Your GitHub Profile Header -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+ErrorX;Cyber+Security+Expert;From+Bangladesh" alt="Typing SVG" />
-  
-  <img src="https://komarev.com/ghpvc/?username=fakeerrorx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=180&section=header&text=ErrorX&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-  <br>
-  
-  <!-- Social Badges -->
-  <a href="https://twitter.com/fakeerrorx">
-    <img src="https://img.shields.io/twitter/follow/fakeerrorx?logo=twitter&style=for-the-badge" alt="Twitter Follow">
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=440&lines=Cyber+Security+Expert;Penetration+Testing+Specialist;Security+Researcher;From+Bangladesh" alt="Typing SVG" />
   </a>
-  <a href="mailto:info@errorx.me">
-    <img src="https://img.shields.io/badge/Email-info%40errorx.me-blue?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+
+  <!-- Profile Views Counter with Custom Style -->
+  <div style="margin-top: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=fakeerrorx&style=for-the-badge&color=0e75b6">
+    <a href="https://twitter.com/fakeerrorx">
+      <img src="https://img.shields.io/twitter/follow/fakeerrorx?logo=twitter&style=for-the-badge&color=1DA1F2">
+    </a>
+    <a href="mailto:info@errorx.me">
+      <img src="https://img.shields.io/badge/Email-info%40errorx.me-blue?style=for-the-badge&logo=gmail">
+    </a>
+  </div>
 </div>
 
----
-
-<!-- About Me Section -->
-<h3 align="center">🚀 About Me</h3>
+<!-- Custom About Me Section with Premium Style -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px">
+    About Me
+  </h2>
+</div>
 
 ```yaml
-name: ErrorX
-title: Cyber Security Expert
-location: Bangladesh
-fields_of_interests:
-  - "Cyber Security"
-  - "Penetration Testing"
-  - "Network Security"
-  - "Web Security"
-  - "Mobile Security"
-currently_learning: ["Advanced Threat Hunting", "Cloud Security"]
+{
+  "name": "ErrorX",
+  "title": "Cyber Security Expert",
+  "location": "Bangladesh 🇧🇩",
+  "focus_areas": [
+    "⚡ Advanced Penetration Testing",
+    "🛡️ Security Architecture Design",
+    "🔍 Vulnerability Assessment",
+    "🌐 Web Application Security",
+    "📱 Mobile Security Research"
+  ],
+  "current_ventures": [
+    "🎯 Advanced Threat Hunting",
+    "☁️ Cloud Security Architecture",
+    "🔒 Zero Trust Implementation"
+  ]
+}
 ```
 
-<!-- Connect Section -->
-<h3 align="center">🤝 Connect with me</h3>
-<p align="center">
-  <a href="https://codepen.io/fakeerrorx" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
-  </a>
-  <a href="https://twitter.com/fakeerrorx" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://fb.com/fakeerrorx" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/fakeerrorx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/c/fakeerrorx" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
+<!-- Animated Connect Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+    Connect with me
+  </h2>
+  <p align="center">
+    <a href="https://codepen.io/fakeerrorx" target="_blank">
+      <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=black"/>
+    </a>
+    <a href="https://twitter.com/fakeerrorx" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+    </a>
+    <a href="https://fb.com/fakeerrorx" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2"/>
+    </a>
+    <a href="https://instagram.com/fakeerrorx" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+    </a>
+    <a href="https://www.youtube.com/c/fakeerrorx" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"/>
+    </a>
+  </p>
+</div>
 
-<!-- Skills Section -->
-<h3 align="center">💻 Technical Skills</h3>
+<!-- Premium Skills Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    Technical Arsenal
+  </h2>
+</div>
 
 <details>
-<summary>Languages</summary>
+<summary>🔥 Core Languages</summary>
 <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,php,cpp,java&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeerrorx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 </details>
 
 <details>
-<summary>Frameworks & Technologies</summary>
+<summary>⚡ Frameworks & Technologies</summary>
 <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,docker,laravel,flutter,django,vue,angular&theme=dark" />
+</div>
 </details>
 
 <details>
-<summary>Cloud & DevOps</summary>
+<summary>☁️ Cloud & DevOps</summary>
 <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform&theme=dark" />
+</div>
 </details>
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Statistics</h3>
-
+<!-- Enhanced GitHub Stats with Custom Style -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakeerrorx&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=fakeerrorx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeerrorx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+    GitHub Analytics
+  </h2>
 </div>
 
-<!-- Trophy -->
+<p align="center">
+  <a href="https://github.com/fakeerrorx">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fakeerrorx&theme=radical&hide_border=true&background=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fakeerrorx&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  </a>
+</p>
+
+<!-- Premium Trophy Display -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fakeerrorx&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" alt="Trophy" />
 </div>
 
-<!-- Footer -->
+<!-- Custom Activity Graph -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakeerrorx&custom_title=ErrorX's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FA428E&line=FA428E&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
+
+<!-- Premium Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=120&section=footer" width="100%" />
