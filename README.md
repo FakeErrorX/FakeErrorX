@@ -160,7 +160,7 @@
   <!-- Programming Languages -->
   <h3 style="color: #00FF95; margin-bottom: 15px">Programming Languages</h3>
   <div style="background: rgba(13,17,23,0.6); padding: 15px; border-radius: 10px; margin: 10px 0">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,dart,go,rust,kotlin,flutter&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript,typescript,dart,go,rust,kotlin,flutter&theme=dark" />
   </div>
   
   <!-- Frontend Development -->
