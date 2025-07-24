@@ -1,4 +1,3 @@
-<!-- Matrix Rain Effect -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:00B2FF,100:00FF95&height=250&section=header&text=ErrorX&desc=Cyber%20Security%20Expert&animation=fadeIn&fontColor=FFFFFF&fontSize=80&fontAlignY=35&descAlignY=55&descSize=20&stroke=00B2FF&strokeWidth=2"/>
 </div>
